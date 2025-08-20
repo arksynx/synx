@@ -1,1 +1,2172 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _nWepJlOqDpzD = a; end)); return(function(r,...)local d;local l;local p;local f;local s;local o;local e=24915;local n=0;local t={};while n<891 do n=n+1;while n<0x15d and e%0x4566<0x22b3 do n=n+1 e=(e+31)%20641 local h=n+e if(e%0x4cb0)>0x2658 then e=(e-0x126)%0xc68 while n<0xd2 and e%0x4186<0x20c3 do n=n+1 e=(e*989)%12274 local l=n+e if(e%0x2f12)<=0x1789 then e=(e-0x32e)%0x549b local e=35635 if not t[e]then t[e]=0x1 d=(not d)and _ENV or d;end elseif e%2~=0 then e=(e+0x146)%0xbceb local e=71100 if not t[e]then t[e]=0x1 d=getfenv and getfenv();end else e=(e*0x1c2)%0x2005 n=n+1 local e=34250 if not t[e]then t[e]=0x1 p="\4\8\116\111\110\117\109\98\101\114\103\99\118\89\95\69\95\116\0\6\115\116\114\105\110\103\4\99\104\97\114\102\82\115\79\108\117\70\84\0\6\115\116\114\105\110\103\3\115\117\98\95\66\89\72\114\79\77\114\0\6\115\116\114\105\110\103\4\98\121\116\101\95\101\109\75\72\71\116\68\0\5\116\97\98\108\101\6\99\111\110\99\97\116\115\102\70\101\119\120\85\106\0\5\116\97\98\108\101\6\105\110\115\101\114\116\67\101\121\86\88\112\86\76\5";end end end elseif e%2~=0 then e=(e*0x317)%0xc22e while n<0x16a and e%0x15c8<0xae4 do n=n+1 e=(e+354)%10885 local p=n+e if(e%0x153a)<=0xa9d then e=(e+0x2a5)%0xf2f local e=84874 if not t[e]then t[e]=0x1 f=string;end elseif e%2~=0 then e=(e-0x1b8)%0x3746 local e=34883 if not t[e]then t[e]=0x1 o={};end else e=(e+0x1cb)%0x4dc6 n=n+1 local e=69697 if not t[e]then t[e]=0x1 l=function(l)local e=0x01 local function t(n)e=e+n return l:sub(e-n,e-0x01)end while true do local n=t(0x01)if(n=="\5")then break end local e=f.byte(t(0x01))local e=t(e)if n=="\2"then e=o.gcvY_E_t(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then d[e]=function(e,n)return r(8,nil,r,n,e)end elseif n=="\4"then e=d[e]elseif n=="\0"then e=d[e][t(f.byte(t(0x01)))];end local n=t(0x08)o[n]=e end end end end end else e=(e*0x188)%0x9cc3 n=n+1 while n<0x1ca and e%0x4c36<0x261b do n=n+1 e=(e-255)%44740 local d=n+e if(e%0x2560)<0x12b0 then e=(e+0x16)%0x6721 local e=99303 if not t[e]then t[e]=0x1 s=tonumber;end elseif e%2~=0 then e=(e-0x370)%0x8bf4 local e=87998 if not t[e]then t[e]=0x1 end else e=(e-0x11a)%0x1043 n=n+1 local e=22848 if not t[e]then t[e]=0x1 end end end end end e=(e*547)%49069 end l(p);local e={};for n=0x0,0xff do local t=o.fRsOluFT(n);e[n]=t;e[t]=n;end local function h(n)return e[n];end local z=(function(r,f)local p,t=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local l=r while true do n[0x03][o._BYHrOMr(f,e,(function()e=p+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""t=0x000 break end end local d=#f while e<d+0x01 do n[0x02][t]=o._BYHrOMr(f,e,(function()e=p+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 o.CeyVXpVL(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+l)%0x100)));l=r+l;end end return o.sfFewxUj(n[0x01])end);l(z(28,"GsX ,9nc#6WS2!1.16"));l(z(236,"}6AJn5F)f-G7:O!S6nA!GS:nOF!6SG{)7fA:565O)nFof5GO77O5OAin!57:O65(5)F-ff-:7n:7O-OA!7Sf6O6f!5SO):-A-O7FO?OnOF!JS-2SAF5nnS6;AGG7:1OAOOSF,J75J6J-FxFJ):-!f77GG7!7O7!fS5:f!K5OF5f:-nn5:b::!6Zf6nX-6SJnF6)6Ff-!Gf5:)fSJS-6:A-J55f5-fVf6-F7n:6OAO6O:SJ656fJfF-6nA7f!76:J!fS)H!!JJf5<5FnJ57)OfA:fFf):vJT66OJ:6OFG5)f7)7-F-G:!)!-6OO.nJ6J)non7fS-7GS5:)nSn8J67JDnAnOFF)Jfn-5-7-S!fOf<6AL:KO-5:5O)A-z-O5AO5!ASfSO6JASAGAO5JFO)+f6-n:O):-A65AAJfJO5JFSF:--G:-!!AOtS7L:7:O65aFF)6fGGn-FG!:7!!OS*:JJnf!fS!)Sf5GQGO7S!nO)<A6fJ6J7JaFff5AnJ:7-:6!fSeG66FJkn)57)AF7)7GG-6O77-SA!S7-"));local e=(-36292+(function()local f,e=0,1;(function(t,d,n,e)t(d(t,n,n,e),n(n and e,e,n,d),e(e,t,n,e)and d(e,e,n and e,e),d(e,t,d and t,n))end)(function(n,l,t,d)if f>391 then return n end f=f+1 e=(e+599)%39277 if(e%544)>=272 then e=(e+821)%1822 return n(d(t and d,l,l,n and t),t(n,t,n and d,n),t(n,l,l,l),t(d,d,d,n))else return n end return t end,function(t,d,n,l)if f>294 then return t end f=f+1 e=(e*838)%8421 if(e%1866)>=933 then e=(e-595)%36793 return d(n(d and n,t,l,d),n(n,l,t,l),n(t,d,n,n),t(t,d and t,t,n))else return l end return n end,function(l,d,n,t)if f>264 then return t end f=f+1 e=(e-848)%19663 if(e%1092)>546 then e=(e*576)%37959 return d(n(t,n,n,d),n(d,t,t,t),n(d,d,l,n and d),n(t and n,d,l,l))else return t end return t end,function(n,d,l,t)if f>413 then return t end f=f+1 e=(e-396)%14700 if(e%1480)>=740 then e=(e*902)%36039 return t else return t(d(l,n,t,l),n(l,n,n,l and t)and t(n,l,d and d,n),l(t,d,n and n,d)and t(d,n,t,d),d(d,l,l,t))end return n(t(d,l,d,l),n(l,n,t,d)and l(n,t,n,d and n),t(l,l,d,d),t(t,n and t,n,n))end)return e;end)())local fe=(getfenv)or(function()return _ENV end);local h=o.TmlJzTkh or o.RASYHEDi;local p=4;local m=1;local l=3;local d=2;local function de(c,...)local a=z(e,"X=VEJvt40F1*z<p/4VJVtE0J10ty0#1=zVpENJEvpz<=p/=uE=vV4EFJ<F=t/0VJEFv14*/uEJJEtJ0pFJz4/v=1VpJFtzV*JFt10*1zz<ppt/4rvJ1vztp4H0VFJ1)*=04*1v*z<</ptz1/<t/vP0=aJ1t4F<1<t1FV1*zzp<vpFpzE<1Gt=zJEtE=4JEv04FF1=VE<ttFV0vz//EpvV*J<4=01J0400F11z*V<vF41FpzEpvsJ=J=Jtv00FzzvpVg/V0/<V=Epv/0c=0VEvv4VV0p2kGV=JVtE0Jp<tzJ/4FFW*=<VE10E1F*p<0hv/*JFt40jEpt04/1 z=Ett0Fz*F1F/t=JE0vzEpV/J<tp0/*f<=/VJ44Jv04tF4*0<F/1=*VzFz4/1tznp=OVt41F<0/1=FE4tVY*EVJzt<0p,EEvtF0t4vzEp<FF*4<0/F=1E*vz4<<p*/p=:JVVJEtJ0v1t04v1JFV<J*tz0<1pz//Hv14Vvt;pVpJ/4kF=*VVEF14/F<*p</gYV=JV14zJ1t<rp4L0VFFp<Q}JV==MtJ0J1vz=p=Fv*F<t/4=017**p0Y=zG<p//VuJ=tV0E0JTJp4=<V0JFt1z<j<E&vF4t1Vzlp4H==0VFt0401tzzp1/zVpJVtz0V*FtV0F1EzJpvJFFt*t<4p/fpJ+pp=EV/vb4=<0VvEvtV4*E0t44FF1**=ptzF?1Ezv/E/vVzvpt14t*Qp)pp=tzppz9<VpJ/4Rv==JFE/4=vEtv440FF*1<*/z=pJ<v/0}1==VJ/tv001*z//4=vVpv}4p0=*Ep4OJ*V<0/E=JEv1Fpz/1VtJEt/=<JEvp4/1y==JE4v0F*E<100*vzFp1M*0***zv/JVl=*vptV1vFFpt==/z<1u==*Ezv<zp2*V=v1t4Fv*4tt0/14z0pFJpF<1<<J/v=_EVv<44EJtJ4vFt*4Vz4V011f4z/t7<EJvVV=0<10<<*E<J/vp*qFV1J*tz0<1pu<E?=VE0vE4JFv/FJttJ001z0p4<1V*p</.eF=1vzJ/P==ztp4OFE=J1t*0z,=EEt40J0J**p</F*0<t/4=0EFv14**B/<</7JVPJ=tV<0p0VpvEEFVFvVt10*1z=<v1451F*tpJ<1VFEp/4V4E0vF41<pV0JVv/F=FJzt/1=4=EvEJzFt1*<p/<1z<Vp<HpV/FEpE/4=JJ0v1=4E*v04FF1dpJv440EJ#tJ0=1VzEEVttFE1ztFF411z*pzvEF4*<<J<4=*Jvt40F4F*/p=Zv=p<zu/=<Epv/z=p<ipEVv44FF010*v///z=0vz4/FE*z<Fjt=//t=JEvvt44F04FEzE*=<Jvvp4/1(W1vn4tF01t<Jp1N<z1/tC*VzJ<*L/pVVEvv40v44zJpVxtV1Pz/*=/Ezv<4ppJVpvtt/VJJ<tv0t14=zJp0VF/F0zp/c=JEz/V=tEEvJ4vptVEEF4V=*E/vz4<Fp=EJv4FFtJJt00v1tz4Vp40F0*/t<F<1pz//jvEFE*t<//zV0Jtt<04FpFpp*mFV<v=EEVVJ*tE0J1v=FJ1410p1/<F<EVVE4/V=uE=vV4EFJ*v1tEt=*DtVtJ4t00F11p*v/JVt*0E1JzvE14p0<1p<0<J=1EEv<=,Etv=4VFE/vE0t10?1p*p4**J*z<</ptz1/<q/n/tVFJ0tv41*z<*/E=FEEtKvtF0*J<v/4V==vtF011FvF0EF1**<zJJ0E*E*Ept=JEFJ<t00*J1t00F11z*pz_<tj0/4EF=*V<E/J=v=tzt*0Fzp<ipV/v#4=FVvEp}zE/1mJVvJt1<pF=VEtvb4xJ<zV<p*)=4E4t444F<4tp1/*V*JEt*F,44v/1t1-z=pVv40z1p<F14&pEVvt4HJzzJz/2V<&J=tJ0V10*1<FG*=<E<=1FV1v<=pt*/Y<vA4=F=F4z1pFz4=p=z_*EtJzt<0p/*E/vJ4EF/1Jp=/4EYE<t*=*J=vz4<Fp7tJ/4v011J<=0t1Fz4p0nFF0*+pE0p*1z//2==4<*0p<p0V/J1tz4p141E<=p=*/ptrMV=JVzF/t=JEEEFJ/t*J*4v0z1<zpEz4/1tzv<0<FVEJ1vz01E1t*4*Fz*<V*tpFv*Jz4zv=FEFv14tFt411</4=vEhvF{/4EvV4VFE*JVv/t=4E0v141F**zp/=V=/J>t=zt1EzJpv=0EVJ0tF01z/zzp<9pvvtv4=FV*E<1/v=4E41V4FFppz<z/<=pJvt)0V1Vz4=vovVtJ4t/0F1*z*pz4tVpJ/4IFV*V<E/JV4tpv440FF<E<*/z=<vpFt081=zVpEaJt1Jt4F1E1Fzzp*E=V<Jpt/F,**<V/E=JE4vt4FF0<F/=/*=<E<vp4/p*z=6V#pVJJ4tt0010<=p1=<JvJ<4V0/</<=/V=EEJvz4tFF*0<</1=<Ezt/*tF/zEp==*VEJJtv1tpVz0pzL1VpJz*V0pz=pJ/==4EEv44vFt*4<0;==1Epvz0VFpz=pdV=V<JEt00v10z4=zsFEzvvtzFE1p=</_==EVvEF=Fv*1<4/p=FEzv*0V1**ppEnCEzJVtJ0J1vztp*EFVFJ1t*141<z/p/ELEvvV44FJ*4<tJv=0vF1B4*1m*<pV//EcJ=tVFV1JzFpt3FV0J1t10*T0z</Vq/E=v=4VFEzt=V/t=zE00p41F**z<<bJ=/JJt=041Ezvpv=0v/J0tp01<vzzp<#pE=*14=F0*E<0/v=tE4v0zJF1zI<z//=pJvtR0411zEpFTvJ1J4tF0F11z*/iEpVpJ/4!*v*V<J/J=Ft4v440FFpE<*/<=<vuF40r10zVp<UJVvJt4F*E1F<Vp*vvV<Jpt/FWzz<V/z=JE*vt44F0*F<</*VEE<t44/1=z=pV?zVJJ*tt0<10zFp1=<tJJ<4v0/p4<=/V=EvJ0p4tFp*0pq/1t0Ezt/FCF/z0p=J=VEJJtv0tzJz0/dU1V<Jzt/0p</pC/==FEE044vpJ*4p0=-=1JVvz1LFpz=pK=EE8JEtz0v<<z4p0!FJ1v*tzFv1p<4/uvpEVtv<0Fv*/<4=v=FE1v*4z/**pp4?BVEJVtv0J*4pnp4==VF40t*0z1<ppa0=DE1vV4zFJ3V<t-F=FEFtJ4**z*<<p//EVvVtV0p1J<FptP4V0v*0J0**0z<#pS/E?v=0JF/*JpV/tJ<E0vF41F*zz<<(4=/J<t=0J1E<J/0GtV/J0F*01*Jzz//==V/vF4=zH*E<J/vEtv}v00VF1zJ<zJ1=pv=4E0=1zzE/pYvVtJ441FV11<tpzVzVpJ/4-1E*4<Eyb=vE*v440FFzzE//zV1Ep4/0(1=zVpE=JVvJ/t4Fv1Fzzp*=zEtJp44F(*0<V/z=JJ4tJ441=*F}E/*=zE<4p0V1;z1pVgzVJFVttFF1zzF/J2*JzJ<tp0/zVpJ/V=pEJ4v4tF4*0p*j0=*J0v<FpF/zip=!VEEJJtp0t*Ez0p*U1E*vYt<Ft1/#p/==*EEtt0FFtz3<0VV=1E*vzF<***/pFS=V*JE*=0v*0p?p0=EV1v1tz0<1pp=/===E<vE0EFv*t<4^1VFE1t44z1z*p</+8V=F1tE0<1v<Vp4_1VFv1110z*vzpV4=rE1vV1EFJ*v<p/4EtEFtz4*zz=<<pr4Vg0JtVFt1J/v//:4EPJFFw0**/z</pVEEbvF4V*t*J<z/tE4JzvF0EF**/<<V/=/J)t00V1pzJp<MtV4J04*1#1*<0p<v+V/vn4=*Vzt<JB==tJEv0ztF1z<Jn/<V*E/410=1VzEpJJtVtvEt00*11z<pzM<EEJ/4<F=*V<E/v=vJ0tJ4014*1>F/z=<Ep4/F41=<xpE=VVvFEt4F1*zz1/1-zJ4Jpt/FNzEpV/EVJEv4v44F0*Fpzq==zJpvpz41az=pV=v00Jv4004z0zFp1x*Vz*vtpF<*)pE/V=vEJtv4*F4zv<Fw==*J1v<4p1Jz5p1WVE_JJt40tz4<_pF=EV*vvt<zF1/<o_0=VEzvJ44Ft*0<0&*=pE*tv4<<v*/pqm=JVvptJ0p1t<2p0vtV1v<<30<*0z/V1==EVvE4Jp1*tpl/0=*E1v<4zz<zp</LFV=4ptE0<1v<0/v-0EEJ1FF0z1<zpx/VJE=vz4EFp*vVE/4V1v=v10tFzzz<p//V-vEtv0E*#zvytL4V0JF4zFz1z<1ppV/Egv=4V1v=0<v:J=4tqvF41F**zp</pVFJ%t/0V1vzJ/vI*V4v=tF*z1*<tp<VdE=vN4*FVp=<J/v=tv4tp4F1J**pt/<t*E/4VF11VzppJVvVtJ4t0F*zEz*/0b<JpJ/4#F=zJ<*/JVVEt4440FF*1p<t8=<Jzv/1<1=zVpE;J4pJt4=00*4z1p<OzE<v1t/FF*=<F/E=pEv0t4<F0zV<1=t=zJzvpF=1zz=pz%EJ<Jvtt04z0<1p1=vVzv4tp<z*spEyV=EE/vv0vF4*0<F>zEvEztF4p1pzqp=nVEvtEtvFE14<4pFC1V*Jztp0p*F<A/p=VEvvJ0vF/*4p=/FV4E*tt4<*_z<pqB*VV4ztJ0v1tp4p* FEJJ*4t0<p*z/=B=FEVv<4JF/*tpE/0VFJVv*0vF</*</b1V=4VtJ0J1pzt=EU0E4J14*Fz1<<4p/EEE=v14E1t=t<tb==04Uv14*Fz<<pO//V1J=tz0E/=zv/0VVV0vJt1Fz1zz<pp)/JVv=4zFE*t<v/0=4t0t4411v*z/p/pJtJi4E0*1Ez/pvEJV4J0tF11*=zz/0ypE1v&*pFVzvE0/vVVE4FF4FF1**ppJ/=pJztK1=1VzEpJ=4EVJ44t0Fz1z*pzr<J>tE4A1l*Vp1/J=vEtv44*FFzv<*m*=<JIv/FY*JzVp<#Jv4Jt4V00**p4p*=4V<4zt/F3*=/V//=JJQvt0VF0Yt<1k<0#E<t14/1=z=pVbEEtF4ttFJ10pFp1.*Vzv/0t0/*p<=EV=EEJvv001**0p0/1E*Ezv<4pF/<*p=k<VEvEtv0014<0pzT1EvJz4J0p*1<jPEV0EEv/4v*/*4<0/FE1v0vz00Fpz1pNJpVVvv*t0v*Vz4u0fFV1J*4pFJ1p<z/wE=EVvE4J14z0<4qt=Fv1v*4zF<*pp=e(VzJV4=0J14zt/4s<VFvJt*z11<<Fp/VVJ=vV4pFJ<p<t/4=0vFt{4*14*<pF//t<J=4J<v1J<=pt=tV0JFt1F<zVz</*b/E/v=4VFEztp</tVvE0t041F**z<<j4=/J*t=F+1Eztpv=tE/J04E01*0zz/0cpJ=tV4=F<*E;</v=tE4400EF1zt<z^0=p4zt21=1tzEp/2vE=J4*J0F*1T1pz=4Vp0z4uFz*VjE/J=vJev41JFFbi<*VzV0EptF0C<=zVKpiJE4t=t4FE1F/Ep*rzV<tp4tFH*z<V/p=J0Vvt0F* *Fpt/*V*E<vp4/*V<LpV=gVJvJtt0410<*/=c*E1J<4<0/*,<=/V=FEJtA4t1v*0<*/1V*4*v<00F//0p=w<VE4Jtt0t*=z0b4-1E<Jz4<1F1/<1/=EvEEvz4v10=0<0%J=14Vvz4<Fp</p4P=V<JEt/0v/Ez4/18pV1v4tz1v1pz//H==JJvE4/Fv*0<4/1=Ft1tE4z10*p=*iHJEJV4vF01v<Vp4EtVFJ1t*1z*1zp/*=OE<vVz^FJz4E1/4VvEF4J4*Fz*</Zv=VwJ/tV1E1Jzvpt=FV<JF4F0*zzz<ppj/JVv04V1E*J/</t=4E0vF01F*z0<<rp=/JVt=FV*<zJ/c.tvFJ04v01*<pJp<=1V/4p4=FV*E/J//=tJEv00vF1+0<zf/0VE/t<0=pVzEpJ vE0FFt0F411p*pzm<Vpt=4FF=z=<E//=vEtv401*d*1p*/zE<Epv/0;1=zEpE=AVvvtt4011F<1KV>zE0Jp4tF *<<VkvV0EvtV44z=*F<1/*Ezvtvp0*1sz<pVvaVJv4*004*vzFq1}*VzJ<0)10*_<//VEEEJvv4t1FzE<F-F=*vzv<4pF/zbpJrVV/JJ4J0t1Fz0/F=vV*v4t<zz1/<z/=VJJ<vJ0=Ftpo<0/F=1v*tF4<11*/pz.=t/JE4t<41t<Jp0=0V1J*tzF/z9z//p==J=vE4JFvz0p4/0V0E1t14zF<*p</=0V=JptEFE1vz0p4=0JVJ14t0z*1zp/*=CJEvz4E1,*v%//4=0EF414/FzzF<pB*V{4ptV1E10zv/V>4EJJF4t0**z/vpp=1E80p4VF/*J{v=E=4JEvF1tF*WV<<=AE1JSt<0VzzzJpvItJ4tJtFFt1*<0p<v*V/tV0=FVz8<J,J=tE4v00*1E**p1/<V<E/tl0=*J<&pJ=JVtvtt00F11z*JJm<E1J/4/F=*J<ElJVVEttV40<=*1p4/zJ<J/v/0*1=pkpE=tVvvtt100*Jz1Dp9zEvJp0/Fp*=<p/E=/Ev1t44*0<E<1x4=zJFvpF*1-z4j/QEEVJvtF041FzFpz{*Vz*ptp0/*&<J/V=EEJvvp4F4*0<Fnv=*Ezv<4ppzzbp<^VE=JJtt0tz4<zpF=tV*v4t<FJ1//l_)=VE/vJ0=Ft<E<0//J4E*t14<1i*/p=s=VJJEtJ/t1tz4p0TzV1J*tz0<=/z//O==E<vE4JFv*t/4/0VvE1tF4zFp*p/=ftV=JptE**1vztp4V0EvJ1440z*FzpEz=!JEvz4E1=*v/E/4=0EFv14<FzzF<pZ=V_JEtVFv*Fzv/E94vtJFt10*zz<0pp=zE%vp4VpN*Jp4v1=4JtvF**F**z<<=_4=JG4%0VzEzJpv{tEFv0tFF11*pzp<UpV/tV0*FVzJ<J/4=tE4v04F*V**pF/<V/E/tV0=*Vp7pJ==Vt4Ft0Ft11<</v:<E*J/FpF=*V<E=JVtEttJ401t*1V0/zV/1Vv/0p1=zEpE>JVvv0*F00*0z1;*szV<Jp0=1t*=pV/EV1Evvt4411*1<12z=zv<vp4/1sz=/8LEE=Jv440411zF/1==VzvFtpFt*h<p/VVvJ1vv0EF4p=<F/1=*vzt44p1zz2ppqV4VJJ44<014<tpF=/V*Jzt<1B*=<OCm=VJ0vJ4vFtzFp{/FV1E*4=4<Fp*/pC{zVVvStJFv1tzFp0=FE4J*400<pzz//<==JJtt4J1V*t^f/0=FE14*0JF<z*</w<V=0/tEFtYFzt/vG0E0J1t*0z*/EVp/=/E=t=4EFJ*vp0V*=0JFv101Fz*<<p//EVJ=t/0E*Jzvp0^4E0v4t1F41z2vpp=zEL0=41FEzu<v=J=4J1vF01*=*zpF/pJVJPtF0V*v<vpv=EV44/tF011*pz(49pEzv>4pFV{s<J&441E4tt4F*4**<z/<=pF<tf0p1VzvpJ!4VtvF4v0F*0z*=1I<VpJ/Fi12*Vp=/JVEEt1J401*zE<*b*=<vpv/0:1=<J/5?JEvJt04001Fz1/<=1V<v/t/F/*=<V/EVtE*vt0FF0<F<1/*=zE<tp4/1pz=/JPEVtJv4t0F10<tp1E<Vzv*tp1=zv<=yH=Ev<vv4tF4<0pV/1VFEzt*4pppze/EgtVEvEtv1t14z0pF=zEzJz4<0p/t<(/==VJvtp4v14*4<z/F=1E*vz<vFpz<p>=VVVJvtJFvpvz4/v#Ft0J*410<<p<h/?=pEV4=4J*v*tp4+v=FJ4v*F/F<z1</_tJpJV4=0J1vztp0R0V1J1t*/<1<zpp/=FE=vV4EF1pV<tnt=0E1v14zFzzt<p//F=J=tV0E10zvptL4V0*1t10*1z<4pp /E+v=pEFE*J<v{J=4E0vF413z*z<</pVzJRt=0V1EEvpv#tV4J*tF011*zzvpipV/v+44FV*E<J/v04E4v04F1V**<z/<=p*ot-0=1Vz1pJwvVtJ4<F0F11z*/vr<VpJ/Fr*4*VpE/JVMEt1040*Fz4<*Sz=<Jpv/Fz1=zV//bJE4Jt4t001Fz1p*=VV<vpt/1V*=<E/E=JJ/vt44F0*1<1/*=zJVvp4/1azEpV9EVJJt4?0410zFEp461Jz=*=/p=zJGtJJtEvvF4tF4*0V<v/FE*Wv/0EF/zQp=#VtEJJt40t14z0pFM1E*v4t<F{1/<V/==VEEvJ01Ft*F<0/F=1E*vz0<1z*/pVu=VEJEtv0v1t<1p0ZFV1Jztz0<1pz//y==EV4t4JFv*t<0P==FE1v*z=:*EVJJ4VJ=0<z0/<1tz1p4)0VFFp<c,JV=z//E=iE=vV<F/<VEE1/1=0EFv14*Fz*<zpEpV=J*tV0E1J=FJ*4/Fz0z<F/4=*E/V==VElv=4VFE*J<vE/v4EFv<41F**zv=v/FV1*tV001EzJpvJFFt*J<0/z<pz</=UpV/v.p0/EVvJV/tV4E4v04FptV1E<t=F=*E<Vp1=HV1(Jt1F0*F<4/*pJzz/vx<VpJ/zJn0=4E0tVvp1J*<p4Fz*1<*/z=<Epv/0c1=zEp0hJVvJt<*pFr*EtvB+<v/Jpt/Fo//J==E04F0z0pZx0V</1vzFVFpz4p*R=VEJpt0JJ*F<v14=1Epv0V*vJ*E<E!E=EEF=V4FFv*ppV/z=z/Fv/4z1pzFp4MJEVa1E:VtJJtv0t14z0pFt1t*J/t<0p1/<K/==VV*FE4tF**4<0/F01Fp*<pFc1zVp s=VVJEtJ0v0tLtp*Ezv<4pF/z?p=1V1/=VE1vE4JFvPt=0J*t00v1tz4*pz=</DCV=JVtE0J1v{tp0g/VFJ1t*/V=/E<vztV40FJ4JF1*v<t/4v*1**/<z=+VV</i*VIJ=tVzz=VE*J44EF=1<01<t==Jtn/={EJv=4VFEnJJ=v4FIE*vF41F**z<<<p0p0#tV0z1EzJpv4VFt1Fz</<=/Epvt4zFtv=4FFV*E<JJv0v11z=p<NEV1J1/pVEE/to0=/474J<4Vv0J1t00F11z*pzz<Fr!/4=FJ*V<E/J0EF*zp4FF<*1<*/z4514<Fpv1VzFpEwJVv01zz/*=<Ezv10vVpv/t/F;*=Vvvt0tFpztp**0V*J/tFEz1V<2/=(/EE=z9JV0Jvtt04=/V1vE4/Vzzptp0/*opEe<=EEJvv0EF4*0<F=1=<Ezv<4pF/z3pJ VVEvAtv0414z0pF-1V*Jz040p*=<U/V=VEEvJFv1v*4<1/F=zE*vp4<FpzSp59=VVJvtJ041tz<(E+FV1J*<v0<1/z//M==Et0J4JFv*tJb/0=1E1v*0VF<*p</}VV=JVtEFt=Fztp0{0E<J1t*0z*/pEp/=VE=v14EFJ*v/tH*=0E*v14<Fz<E<p==VVJ=tv0E*Nzvptj4E1vvt10/1zp4ppR/E6tE4tFE*F<vjv=4E0vF411z*z<//pVJJ&t=0V1EZVpv!tV4J0tF0*1*zzJ1UpV/vo4JFV*E<Jj4=/E4vF4F*4**<z/<EpJgtW0V1VzJpJVJVtvF4<0F1zz*/0!<VpJ/0V1P*V<t/JV=Etv4401*z/<*%K=<JVv/0B1=<JpprJV1Jt4E001Fz1p*tJV<J/t/Fv*=<J/EVJF!vt44F0<F<1/z=zE<t*4/1oz=pt}EVJJv0tFV10zFp1P*VztJtp0/zv<=/J=EE4vv4tF4z1<p/1=pEzt04pF/zn^=YEVEJ4tv0F14p4pF=zJ0Jz4=0p*/<&/==VEEFv4vFF*4<1/F=zE*vz00FpzEp}W=VVJJtJF4z=z4p<xFJ4J*tz0<zp<z/+=tEVv04J*J*tpF/F=FJ-v*0eF<*p</=VV<JVt10J*=ztp4L0E*v4t*FJ1<<Vp/=gE=tJ<4FJ*p<t!E=0EFv14*cJ*<pE//VFJ=tJ0E*Jp6pt:*V0tFt1Fa1zz</Eb/Ejv=4tFE*t<v=tEVE0vF41F**z/t/p=/v<t=0V1Eztpve4V4v14V011*zz/JCpV/vjF=1**E<J/v=tE44*4F1z=/<z/p=pJ/ta0=1VzE/pGvVtJ4t10F1*z*pz=EVpJ/4aFt*V<E/J=*Jvv440FFp/<*/<=<E/v/0J<VzVpEgJv1Jtt0001</*p*;zV<FFt/F=*=pJV*=JEvvtFVF0*F<1/*VVE<v/4/1vz=pVrEVJF=tt0410z*p1NzVzvE4<0/*?<=V<=EEvvv44F4*zr1/1=*EzF04p1bz(pvEEVEJJtvzz14zFpF=ztEJzt/0pz_<6/==VEE1v4vFF*4<0/F=1E*vzz0Fpz=pg+EVVJttJ0*11z4p1 Ft*J*t<0<1pz//JJVEVvE4J<t*t<0/0=<t*v*4zF<+z</s=V=vJF*0J1Fzt/rW0VFJ14</b1<<Ep/EVE=vV4EFJet<t/<=0Ezv14*Fz*<vE//VJJ=t00E1vzvp1E0V0JFt1<F1zzpppV=t0v=4JFE*<<v/t=4J1*<41Fp*zp4/p=/J{t=<E1Ez0pvY4V4J0tF01V%zzp/QpEEvO4VFV*4_v/v=tE41t4FF***ppEv=pE/t&011VzEpJ=401J4tF0F*0z*pzb<VptF4,F=*V<v/J=tEtv44pFF*1<*?}=<Epv/1r/0zVpEQJVvJt4p001F<zp*}pV<vJt/FT*=pJ/t=JE0vt0VF0*F<1=*EVE<t=4/1Ez=G=REEtvFtt0*10<*p1o*VzJ<410/*E<=/J=EEtvv4t1V*0<</1=*Ezvp4p*=/0p=94VEt=tv0t14p0p*e1E Jz4V0pzp<uRE=0EEv14v10*4<0/FVzv=vz0JFp<<p3s=VVvvtz0v1pz4/*^FV1J*4pF01p<0/u=<EVvE4JFvzF<4/<=FJEv*4pF<zppxG.VvJV4/0J11ztp4t VFJ1t*Fl1<<-p/Eo4vvV4EFJ*v<t=M=0EFtJ4*Fz*<p-//V=J=4J1U1JzvptKpV0JFt11*z0z<ppA/E:v=FvFEztp*/t=0E0t*41F**z<<>0=/J^t=0J1EzvpvQtEpJ0tF01*Vzzp<9pJ/Ft4=FV*E<J/vE4E4v00vF1**<z//=pJ_t#0v<EzEpJ_v1tJ4tF0F11<=pz{<Vpv=4OF=*Vpvt0=vE4v4FiFF*1<*-pV=Ept=0.1FzVpExJJvv/t4011Fzzp*VVV<tj4*Fr*J<V_<=JEvvt0F*=*F<p/*VVE<vp4/*V<0pV30VJJ*tt0410zF/1^*VpJ<4E0/*q<=/Vv=EJvv4tF4*0<1/1V<vpv<4pF/z4p=!VVEtJ4v0t14z0pFL1JpJz4/1=1/<=/=V4EEvJ4vFtzT<0/F=1E<vz4pFp*/p=+=VVJEtz0v1tz4=03zV1J*tz0/1p<?/Z==EvvE4JFv*p<4/0=FJz4g4zFp*pp4luV=JV0E0<1vz4p4DFVFtFt*Fp*=zp/==9EvvV4EFJz4/E/4=*EFvp4*Fz*</{HtVwJvtV041Jzvptl4ElJFt*0**!z</cu/JQvF4VFE*J<1/t=0E0vFpEF**z<<//=/J#t=0V1EzJpvfpV4J0tF0*1/zzp<(p4/*z<Vm**J<4/v=tE4zt<p==*zpv/<=pE/*J/074V0vVJpFJ1<<401*6z*pz}<4=*p<zS6VJ;t/vVvEtv440<*=*Ept40J*_zp/v?/VtVt4EF=*v<F**11<Rp*}zV<F=p=/v=VJtv0=4z/p/=QE=vV4EzJv*JRvp4/1 z=pVnEVJJvttF110zFp1x*E=J<tp0/*o<=/V=EvJv04tF4*0<F/1V=Ezv<04F/zVp=SEVEJJtvF01Fz0pzS1VpJzt<0pz/<z/==vEEv44vF0*4p1=t=1E/vz0JFp*/pM#=V0JEt40v10z4p19FV114tzF=1pz//;=VEVtv0FFv**<4/z=FE1v*Fz*v*ppJclVtJVtv0J*4<pp45pVFvVt*0z1<p>/1=:E0vV4*FJ*v<tCFEvEFtV4*1J*<<p//VHJ4tV001Jz<ptBFV0vF4E0**_z</Ej/Evv=4Vp**J<v/t=*E0v*41**ZV<</p=/Jct=0E1EzJ/F:tV4J0t*011zzzp<44V/vN4=FE*E<J/v=tE4v04F1E**<z/<V=E/t^0=1VzEpJJEttJ1CVVVJEtJ0v1t/40p4=F1*V<E/JtF1<*z<<u4oEJFtV0zE/tv0^1=zVVt4t0114<*p<11<1p*czV<FW<N/E=zEFtv0E11zJ<*<*V0Jtt10p4Mv/0t1^z=pVtFFt*J<E<Fp/k*p*c/VzJ<tp</=zEVt*=JE1vv4tF4/*J0tt011pF24/1Vz:p=&VF=1F<z0t*1z0pFg1V*v=t<0p1/<H/==VEE4JF#Ft*4<0/F=1E/vz4<1**/pVs=VEJEtJ0v*0<0p08zV1Jptz0<1pp//0==EvvE44Fv*/<4N1V/E1v/4zF/*p</CGV=v4tE041vz0p4w1VFJ1z40z*=zpp/=3EVvV0v1F*v<*/4VuEFv14**zz4<prJV^JttV0F1J<4/t54VpJFt*0*1zz<y&=vESv04VFJ*J<v/tVFJpvF0VF**<<</p=/JWtF0V10zJp<CtVFJ04F0/1*<Wp<=EV/vv4=FV:*<J/v=tE*v04*F1<*VV/<=pE/tR0=1FzEpJItVtJ4t00*11zzpzr<F4J/4?F=*E<E/J=vEtv440FF*<<*/z=<E/tE0L1=zVJ1tvFV1*t00/1Fz1p*vJ1=zV</<4=tJt/JJJEvvt44BIV<Jpt*0/440<1ph=V<Jp4VF4*F<0p0<tE4J/4/F0*t<JN0<pEVtV0EtE*tpVDEV4Jztp0<F<z</ZDJV<J144F}4V<=/*K0z0p/B1V*Jz4/1=1/<?/==EEEvJ4v*t**<0/F=1E*vz4/Fp<=/z6=VJJEt40v1tz4p0=*V1J*tz0/1pz//{==EJvE4JFv*t<4/0=FE1vp4zF<*pp297V=JVtE0J1vzt");local n=0;o.psmRWPaH(function()o.AzSsOVFf()n=n+1 end)local function e(t,e)if e then return n end;n=t+n;end local t,n,z=r(0,r,e,a,o._emKHGtD);local function f()local n,t=o._emKHGtD(a,e(1,3),e(5,6)+2);e(2);return(t*256)+n;end;local u=true;local u=0 local function _()local e=n();local n=n();local l=1;local d=(t(n,1,20)*(2^32))+e;local e=t(n,21,31);local n=((-1)^t(n,32));if(e==0)then if(d==u)then return n*0;else e=1;l=0;end;elseif(e==2047)then return(d==0)and(n*(1/0))or(n*(0/0));end;return o.QSTmiLnd(n,e-1023)*(l+(d/(2^52)));end;local b=n;local function k(n)local t;if(not n)then n=b();if(n==0)then return'';end;end;t=o._BYHrOMr(a,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+u),#t do e=e..o._BYHrOMr(t,n,n)end return e;end;local b=#o.daSCxTit(s('\49.\48'))~=1 local e=n;local function de(...)return{...},o.SjlqgHlu('#',...)end local function le()local e={};local u={};local s={};local a={s,u,nil,e};local e=n()local h={}for d=1,e do local t=z();local n;if(t==0)then n=(z()~=#{});elseif(t==3)then local e=_();if b and o.vOjGsOHA(o.daSCxTit(e),'.(\48+)$')then e=o.WSnAwAfO(e);end n=e;elseif(t==1)then n=k();end;h[d]=n;end;a[3]=z();for o=1,n()do local e=z();if(t(e,1,1)==0)then local r=t(e,2,3);local z=t(e,4,6);local e={f(),f(),nil,nil};if(r==0)then e[l]=f();e[p]=f();elseif(r==#{1})then e[l]=n();elseif(r==c[2])then e[l]=n()-(2^16)elseif(r==c[3])then e[l]=n()-(2^16)e[p]=f();end;if(t(z,1,1)==1)then e[d]=h[e[d]]end if(t(z,2,2)==1)then e[l]=h[e[l]]end if(t(z,3,3)==1)then e[p]=h[e[p]]end s[o]=e;end end;for e=1,n()do u[e-(#{1})]=le();end;return a;end;local function te(t,n,e)local d=n;local d=e;return s(o.vOjGsOHA(o.vOjGsOHA(({o.psmRWPaH(t)})[2],n),e))end local function k(j,a,z)local function te(...)local f,_,c,ne,b,n,s,ee,g,y,u,t;local e=0;while-1<e do if e<=2 then if e>0 then if e>=-2 then repeat if e<2 then c=r(6,73,3,4,j);b=de ne=0;break;end;n=-41;s=-1;until true;else c=r(6,73,3,4,j);b=de ne=0;end else f=r(6,62,1,79,j);_=r(6,62,2,52,j);end else if 5<=e then if e>=3 then repeat if 6~=e then t=r(7);break;end;e=-2;until true;else t=r(7);end else if e==3 then ee={};g={...};else y=o.SjlqgHlu('#',...)-1;u={};end end end e=e+1;end;for e=0,y do if(e>=c)then ee[e-c]=g[e+1];else t[e]=g[e+1];end;end;local e=y-c+1 local e;local r;local function c(...)while true do end end while true do if n<-40 then n=n+42 end e=f[n];r=e[m];if r>=59 then if r<88 then if r<=72 then if r<66 then if r<62 then if 59<r then if r>59 then repeat if r>60 then local h,c,s,z,u,p,r,a;for p=0,1 do if p>-1 then repeat if 1>p then p=0;while p>-1 do if p<=2 then if p<1 then h=e;else if 2>p then c=d;else s=l;end end else if p>4 then if 3<p then for e=32,97 do if p<6 then t(u,z);break;end;p=-2;break;end;else t(u,z);end else if p~=0 then repeat if 3<p then u=h[c];break;end;z=h[s];until true;else z=h[s];end end end p=p+1 end n=n+1;e=f[n];break;end;r=e[d];a=t[r];for e=r+1,e[l]do o.CeyVXpVL(a,t[e])end;until true;else r=e[d];a=t[r];for e=r+1,e[l]do o.CeyVXpVL(a,t[e])end;end end break;end;t(e[d],e[l]);until true;else t(e[d],e[l]);end else local z,o,a,b,s,u,c,r;for r=0,6 do if r<=2 then if 0>=r then z=e[d];o=t[e[l]];t[z+1]=o;t[z]=o[e[p]];n=n+1;e=f[n];else if 1<r then z=e[d]t[z]=t[z](h(t,z+1,e[l]))n=n+1;e=f[n];else r=0;while r>-1 do if r>2 then if 4>=r then if r>=1 then for e=39,92 do if r<4 then u=a[s];break;end;c=a[b];break;end;else u=a[s];end else if 6>r then t(c,u);else r=-2;end end else if r<1 then a=e;else if r~=-3 then for e=29,53 do if r~=1 then s=l;break;end;b=d;break;end;else s=l;end end end r=r+1 end n=n+1;e=f[n];end end else if 4>=r then if 1<r then repeat if 4~=r then z=e[d];o=t[e[l]];t[z+1]=o;t[z]=o[e[p]];n=n+1;e=f[n];break;end;r=0;while r>-1 do if r<3 then if r>0 then if r~=2 then b=d;else s=l;end else a=e;end else if 4<r then if 3<r then for e=40,82 do if 5<r then r=-2;break;end;t(c,u);break;end;else t(c,u);end else if r~=0 then repeat if r~=4 then u=a[s];break;end;c=a[b];until true;else u=a[s];end end end r=r+1 end n=n+1;e=f[n];until true;else z=e[d];o=t[e[l]];t[z+1]=o;t[z]=o[e[p]];n=n+1;e=f[n];end else if 2<=r then for p=15,59 do if 5<r then if t[e[d]]then n=n+1;else n=e[l];end;break;end;z=e[d]t[z]=t[z](h(t,z+1,e[l]))n=n+1;e=f[n];break;end;else z=e[d]t[z]=t[z](h(t,z+1,e[l]))n=n+1;e=f[n];end end end end end else if 63<r then if r>=61 then repeat if r~=65 then t[e[d]]=a[e[l]];n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=a[e[l]];n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];do return end;break;end;local h;for r=0,6 do if 3<=r then if r>=5 then if r>5 then t(e[d],e[l]);else t(e[d],e[l]);n=n+1;e=f[n];end else if r~=4 then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];else t(e[d],e[l]);n=n+1;e=f[n];end end else if r<1 then h=e[d]t[h]=t[h](t[h+1])n=n+1;e=f[n];else if 2==r then t[e[d]]=z[e[l]];n=n+1;e=f[n];else t[e[d]]={};n=n+1;e=f[n];end end end end until true;else t[e[d]]=a[e[l]];n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=a[e[l]];n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];do return end;end else if r>59 then repeat if 63~=r then local e=e[d]t[e](h(t,e+1,s))break;end;t[e[d]][e[l]]=t[e[p]];until true;else local e=e[d]t[e](h(t,e+1,s))end end end else if r<69 then if r>66 then if r~=66 then repeat if 68~=r then local n=e[d];do return t[n](h(t,n+1,e[l]))end;break;end;local r,o;for h=0,6 do if 3<=h then if 4>=h then if h~=2 then repeat if h~=3 then t(e[d],e[l]);n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end else if h~=1 then repeat if h~=5 then t[e[d]]=a[e[l]];break;end;r=e[d]t[r](t[r+1])n=n+1;e=f[n];until true;else t[e[d]]=a[e[l]];end end else if h>0 then if 0<h then for p=32,60 do if 1~=h then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;r=e[d]t[r](t[r+1])n=n+1;e=f[n];break;end;else r=e[d]t[r](t[r+1])n=n+1;e=f[n];end else r=e[d];o=t[e[l]];t[r+1]=o;t[r]=o[e[p]];n=n+1;e=f[n];end end end until true;else local n=e[d];do return t[n](h(t,n+1,e[l]))end;end else for r=0,6 do if r<=2 then if 1<=r then if r>=-3 then repeat if r>1 then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];break;end;t[e[d]]=z[e[l]];n=n+1;e=f[n];until true;else t[e[d]]=z[e[l]];n=n+1;e=f[n];end else t[e[d]]={};n=n+1;e=f[n];end else if 4>=r then if r~=0 then for p=14,89 do if 3<r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);n=n+1;e=f[n];end else if r~=4 then repeat if r~=6 then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);until true;else t(e[d],e[l]);n=n+1;e=f[n];end end end end end else if r>=71 then if r==72 then t[e[d]]=(e[l]~=0);else t[e[d]]=z[e[l]];end else if 66<=r then repeat if 69<r then local r,h;for z=0,1 do if-3~=z then for o=15,91 do if 0<z then r=e[d]t[r](t[r+1])break;end;r=e[d];h=t[e[l]];t[r+1]=h;t[r]=h[e[p]];n=n+1;e=f[n];break;end;else r=e[d]t[r](t[r+1])end end break;end;local o;for r=0,6 do if r<3 then if r>=1 then if r>0 then repeat if 1~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end else t[e[d]]=z[e[l]];n=n+1;e=f[n];end else if r<5 then if 1<r then for p=28,56 do if 3~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);n=n+1;e=f[n];end else if 1<=r then for z=47,79 do if r~=5 then t[e[d]][e[l]]=t[e[p]];break;end;o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];break;end;else o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];end end end end until true;else local o;for r=0,6 do if r<3 then if r>=1 then if r>0 then repeat if 1~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end else t[e[d]]=z[e[l]];n=n+1;e=f[n];end else if r<5 then if 1<r then for p=28,56 do if 3~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);n=n+1;e=f[n];end else if 1<=r then for z=47,79 do if r~=5 then t[e[d]][e[l]]=t[e[p]];break;end;o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];break;end;else o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];end end end end end end end end else if r<=79 then if 76<=r then if 78>r then if 73<=r then repeat if r~=77 then local n=e[d]local l={t[n](t[n+1])};local d=0;for e=n,e[p]do d=d+1;t[e]=l[d];end break;end;local r,o;for z=0,2 do if z>=1 then if z>-3 then for h=17,65 do if z>1 then r=e[d];o=t[e[l]];t[r+1]=o;t[r]=o[e[p]];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];break;end;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end else r=e[d]t[r](h(t,r+1,e[l]))n=n+1;e=f[n];end end until true;else local n=e[d]local l={t[n](t[n+1])};local d=0;for e=n,e[p]do d=d+1;t[e]=l[d];end end else if 76<=r then repeat if 78~=r then local o,u,a,b,s,r,c;t(e[d],e[l]);n=n+1;e=f[n];r=0;while r>-1 do if r>2 then if 5>r then if r>-1 then repeat if r>3 then s=o[u];break;end;b=o[a];until true;else s=o[u];end else if r<6 then t(s,b);else r=-2;end end else if 1<=r then if-3~=r then repeat if 1<r then a=l;break;end;u=d;until true;else a=l;end else o=e;end end r=r+1 end n=n+1;e=f[n];r=0;while r>-1 do if 2<r then if 4>=r then if r~=3 then s=o[u];else b=o[a];end else if r~=5 then r=-2;else t(s,b);end end else if r<1 then o=e;else if-3~=r then repeat if r~=1 then a=l;break;end;u=d;until true;else a=l;end end end r=r+1 end n=n+1;e=f[n];c=e[d]t[c]=t[c](h(t,c+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];break;end;local e=e[d]t[e]=t[e](t[e+1])until true;else local o,u,a,b,s,r,c;t(e[d],e[l]);n=n+1;e=f[n];r=0;while r>-1 do if r>2 then if 5>r then if r>-1 then repeat if r>3 then s=o[u];break;end;b=o[a];until true;else s=o[u];end else if r<6 then t(s,b);else r=-2;end end else if 1<=r then if-3~=r then repeat if 1<r then a=l;break;end;u=d;until true;else a=l;end else o=e;end end r=r+1 end n=n+1;e=f[n];r=0;while r>-1 do if 2<r then if 4>=r then if r~=3 then s=o[u];else b=o[a];end else if r~=5 then r=-2;else t(s,b);end end else if r<1 then o=e;else if-3~=r then repeat if r~=1 then a=l;break;end;u=d;until true;else a=l;end end end r=r+1 end n=n+1;e=f[n];c=e[d]t[c]=t[c](h(t,c+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];end end else if 73>=r then if t[e[d]]then n=n+1;else n=e[l];end;else if r>=70 then for h=47,84 do if r<75 then t[e[d]]=t[e[l]][e[p]];break;end;local r,o,h;for z=0,1 do if z>=-1 then for a=48,58 do if z~=0 then if t[e[d]]then n=n+1;else n=e[l];end;break;end;r=e[d]o={t[r](t[r+1])};h=0;for e=r,e[p]do h=h+1;t[e]=o[h];end n=n+1;e=f[n];break;end;else if t[e[d]]then n=n+1;else n=e[l];end;end end break;end;else local h,o,r;for z=0,1 do if z>=-1 then for a=48,58 do if z~=0 then if t[e[d]]then n=n+1;else n=e[l];end;break;end;h=e[d]o={t[h](t[h+1])};r=0;for e=h,e[p]do r=r+1;t[e]=o[r];end n=n+1;e=f[n];break;end;else if t[e[d]]then n=n+1;else n=e[l];end;end end end end end else if r<84 then if 82<=r then if 82==r then local r;t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];else local d=e[d]local l={t[d](t[d+1])};local n=0;for e=d,e[p]do n=n+1;t[e]=l[n];end end else if 81>r then for r=0,3 do if 2>r then if 1==r then z[e[l]]=t[e[d]];n=n+1;e=f[n];else t[e[d]]=(e[l]~=0);n=n+1;e=f[n];end else if 3~=r then t[e[d]]=z[e[l]];n=n+1;e=f[n];else if(t[e[d]]==e[p])then n=n+1;else n=e[l];end;end end end else local f,o,z,p,h,r;local n=0;while n>-1 do if n<=3 then if n>1 then if 1<=n then repeat if 2<n then p=t;break;end;z=l;until true;else p=t;end else if n<1 then f=e;else o=d;end end else if 6>n then if n~=5 then h=p[f[z]];else r=f[o];end else if 2<n then for e=10,62 do if n~=7 then t[r]=h;break;end;n=-2;break;end;else t[r]=h;end end end n=n+1 end end end else if r<86 then if r~=85 then local n=e[d]local d,e=b(t[n](h(t,n+1,e[l])))s=e+n-1 local e=0;for n=n,s do e=e+1;t[n]=d[e];end;else local r;r=e[d]t[r]=t[r](t[r+1])n=n+1;e=f[n];t[e[d]][e[l]]=e[p];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);end else if 86<r then local r,h;r=e[d];h=t[e[l]];t[r+1]=h;t[r]=h[e[p]];n=n+1;e=f[n];t[e[d]]=a[e[l]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](t[r+1])n=n+1;e=f[n];t[e[d]]={};else if t[e[d]]then n=n+1;else n=e[l];end;end end end end end else if r<=102 then if 94<r then if 99>r then if r>96 then if r<98 then local h;for r=0,6 do if 3<=r then if 5<=r then if 5<r then t[e[d]]=t[e[l]][e[p]];else t[e[d]]=z[e[l]];n=n+1;e=f[n];end else if r>-1 then repeat if 4>r then h=e[d]t[h]=t[h](t[h+1])n=n+1;e=f[n];break;end;t[e[d]][e[l]]=e[p];n=n+1;e=f[n];until true;else t[e[d]][e[l]]=e[p];n=n+1;e=f[n];end end else if 0>=r then t[e[d]]=z[e[l]];n=n+1;e=f[n];else if 1<r then t(e[d],e[l]);n=n+1;e=f[n];else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end end end else local r;for o=0,6 do if o<3 then if 0<o then if o~=-2 then repeat if o<2 then t(e[d],e[l]);n=n+1;e=f[n];break;end;r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];until true;else r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];end else t(e[d],e[l]);n=n+1;e=f[n];end else if o>4 then if 6~=o then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];else t(e[d],e[l]);end else if 4~=o then t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];else t[e[d]]=z[e[l]];n=n+1;e=f[n];end end end end end else if r~=96 then if(t[e[d]]==e[p])then n=n+1;else n=e[l];end;else local h,r;t[e[d]][e[l]]=e[p];n=n+1;e=f[n];t[e[d]][e[l]]=e[p];n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];h=e[d];r=t[e[l]];t[h+1]=r;t[h]=r[e[p]];n=n+1;e=f[n];t[e[d]]=t[e[l]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];end end else if 100<r then if 98<r then repeat if 102>r then local d=e[d];local n=t[e[l]];t[d+1]=n;t[d]=n[e[p]];break;end;local o,c,u,s,b,r,a;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=0;while r>-1 do if 3>r then if r>0 then if 1~=r then u=l;else c=d;end else o=e;end else if 4<r then if 4~=r then for e=40,80 do if r<6 then t(b,s);break;end;r=-2;break;end;else r=-2;end else if 2<=r then repeat if 3<r then b=o[c];break;end;s=o[u];until true;else s=o[u];end end end r=r+1 end n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];a=e[d]t[a]=t[a](h(t,a+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];until true;else local d=e[d];local n=t[e[l]];t[d+1]=n;t[d]=n[e[p]];end else if 97<r then repeat if 99<r then local f,h,r,p,z;local n=0;while n>-1 do if 3>n then if n>=1 then if n>0 then repeat if 1<n then r=l;break;end;h=d;until true;else h=d;end else f=e;end else if 4>=n then if 2<=n then repeat if n>3 then z=f[h];break;end;p=f[r];until true;else p=f[r];end else if n~=6 then t(z,p);else n=-2;end end end n=n+1 end break;end;t[e[d]]={};until true;else t[e[d]]={};end end end else if 90>=r then if 88<r then if 86~=r then for o=10,70 do if r~=90 then local o;for r=0,6 do if r<=2 then if 0>=r then o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];else if 2==r then t[e[d]][e[l]]=e[p];n=n+1;e=f[n];else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end end else if r>4 then if 1<r then for p=34,85 do if 5<r then t(e[d],e[l]);break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);n=n+1;e=f[n];end else if r>-1 then repeat if r<4 then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t[e[d]]=z[e[l]];n=n+1;e=f[n];end end end end break;end;local h,c,u,s,k,b,o,r;t[e[d]]=a[e[l]];n=n+1;e=f[n];h=e[d];c=t[e[l]];t[h+1]=c;t[h]=c[e[p]];n=n+1;e=f[n];t[e[d]]=a[e[l]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];r=0;while r>-1 do if r<=2 then if 0<r then if r~=0 then repeat if 2>r then s=d;break;end;k=l;until true;else s=d;end else u=e;end else if 4<r then if 2<=r then for e=32,63 do if r>5 then r=-2;break;end;t(o,b);break;end;else t(o,b);end else if r==4 then o=u[s];else b=u[k];end end end r=r+1 end n=n+1;e=f[n];h=e[d]t[h]=t[h](t[h+1])break;end;else local o;for r=0,6 do if r<=2 then if 0>=r then o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];else if 2==r then t[e[d]][e[l]]=e[p];n=n+1;e=f[n];else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end end else if r>4 then if 1<r then for p=34,85 do if 5<r then t(e[d],e[l]);break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);n=n+1;e=f[n];end else if r>-1 then repeat if r<4 then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t[e[d]]=z[e[l]];n=n+1;e=f[n];end end end end end else local n=e[d]t[n]=t[n](h(t,n+1,e[l]))end else if r<=92 then if 91~=r then t[e[d]]={};else local o,h;for r=0,6 do if r>2 then if r<=4 then if r~=3 then t[e[d]]=z[e[l]];n=n+1;e=f[n];else t[e[d]]=a[e[l]];n=n+1;e=f[n];end else if r>=4 then repeat if r~=5 then t(e[d],e[l]);break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t(e[d],e[l]);end end else if 1<=r then if r==1 then t[e[d]]=a[e[l]];n=n+1;e=f[n];else o=e[d];h=t[e[l]];t[o+1]=h;t[o]=h[e[p]];n=n+1;e=f[n];end else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end end end end else if r>90 then repeat if r<94 then for r=0,6 do if r>=3 then if 4<r then if r>3 then for p=45,84 do if 5~=r then t(e[d],e[l]);break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);end else if-1<r then repeat if r>3 then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end end else if 1>r then t[e[d]]=a[e[l]];n=n+1;e=f[n];else if r==1 then t[e[d]]=z[e[l]];n=n+1;e=f[n];else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end end end break;end;local h;for r=0,6 do if 2>=r then if r<=0 then h=e[d]t[h]=t[h](t[h+1])n=n+1;e=f[n];else if r>-3 then for h=31,54 do if 2>r then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];break;end;else t[e[d]]=z[e[l]];n=n+1;e=f[n];end end else if 4<r then if 1~=r then for p=48,65 do if r>5 then t(e[d],e[l]);break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);end else if 1<r then for p=30,77 do if r~=3 then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);n=n+1;e=f[n];end end end end until true;else for r=0,6 do if r>=3 then if 4<r then if r>3 then for p=45,84 do if 5~=r then t(e[d],e[l]);break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);end else if-1<r then repeat if r>3 then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end end else if 1>r then t[e[d]]=a[e[l]];n=n+1;e=f[n];else if r==1 then t[e[d]]=z[e[l]];n=n+1;e=f[n];else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end end end end end end end else if 110<=r then if r<114 then if r<112 then if 111~=r then local r;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];else local r;r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]][e[l]]=e[p];end else if r~=113 then t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);else local p,h,o,z,f,r;local n=0;while n>-1 do if 3>=n then if n<=1 then if n>=-3 then repeat if n~=1 then p=e;break;end;h=d;until true;else h=d;end else if 3>n then o=l;else z=t;end end else if n<=5 then if n>1 then for e=17,60 do if 4~=n then r=p[h];break;end;f=z[p[o]];break;end;else f=z[p[o]];end else if n>=2 then repeat if n<7 then t[r]=f;break;end;n=-2;until true;else t[r]=f;end end end n=n+1 end end end else if r>115 then if 114~=r then for o=27,57 do if r~=116 then local n=e[d]t[n](h(t,n+1,e[l]))break;end;local u,_,k,c,g,r,o,j,m,a;for r=0,6 do if 3>r then if 0<r then if 0<=r then repeat if r~=1 then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];break;end;t[e[d]]=z[e[l]];n=n+1;e=f[n];until true;else t[e[d]]=z[e[l]];n=n+1;e=f[n];end else t(e[d],e[l]);n=n+1;e=f[n];end else if 4>=r then if r==4 then r=0;while r>-1 do if 3>r then if r<=0 then u=e;else if 2==r then k=l;else _=d;end end else if 5>r then if 2~=r then repeat if r~=4 then c=u[k];break;end;g=u[_];until true;else c=u[k];end else if 1<r then repeat if r~=5 then r=-2;break;end;t(g,c);until true;else r=-2;end end end r=r+1 end n=n+1;e=f[n];else t(e[d],e[l]);n=n+1;e=f[n];end else if r==6 then o=e[d]j,m=b(t[o](h(t,o+1,e[l])))s=m+o-1 a=0;for e=o,s do a=a+1;t[e]=j[a];end;else t(e[d],e[l]);n=n+1;e=f[n];end end end end break;end;else local n=e[d]t[n](h(t,n+1,e[l]))end else if r>=112 then for n=38,65 do if 115>r then local e=e[d]t[e](t[e+1])break;end;local n=e[d];local d=t[e[l]];t[n+1]=d;t[n]=d[e[p]];break;end;else local e=e[d]t[e](t[e+1])end end end else if r>105 then if r<108 then if r>=102 then for n=27,62 do if 107~=r then t[e[d]]=k(_[e[l]],nil,z);break;end;t[e[d]]=a[e[l]];break;end;else t[e[d]]=a[e[l]];end else if 104~=r then for h=20,85 do if r~=109 then z[e[l]]=t[e[d]];break;end;local r;r=e[d]t[r]=t[r](t[r+1])n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);break;end;else local r;r=e[d]t[r]=t[r](t[r+1])n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);end end else if 103>=r then if(t[e[d]]==e[p])then n=n+1;else n=e[l];end;else if 102~=r then repeat if r>104 then do return end;break;end;local r,o;r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];r=e[d];o=t[e[l]];t[r+1]=o;t[r]=o[e[p]];n=n+1;e=f[n];r=e[d]t[r](t[r+1])n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];until true;else local r,o;r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];r=e[d];o=t[e[l]];t[r+1]=o;t[r]=o[e[p]];n=n+1;e=f[n];r=e[d]t[r](t[r+1])n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];end end end end end end else if r<29 then if 14>r then if r>=7 then if r>=10 then if 12>r then if r==10 then t[e[d]]=(e[l]~=0);else local o;for r=0,6 do if 3<=r then if 5>r then if r>1 then repeat if r~=3 then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end else if 3<=r then for p=16,98 do if 6~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;o=e[d]t[o]=t[o](h(t,o+1,e[l]))break;end;else t(e[d],e[l]);n=n+1;e=f[n];end end else if 0>=r then t[e[d]][e[l]]=e[p];n=n+1;e=f[n];else if 1<r then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];else t[e[d]]=z[e[l]];n=n+1;e=f[n];end end end end end else if r~=13 then local r;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))else local z,h;for r=0,4 do if 1>=r then if r~=-3 then repeat if 0~=r then t[e[d]][e[l]]=e[p];n=n+1;e=f[n];break;end;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];until true;else t[e[d]][e[l]]=e[p];n=n+1;e=f[n];end else if 3<=r then if-1<r then repeat if r>3 then z=e[d];h=t[e[l]];t[z+1]=h;t[z]=h[e[p]];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end end end end end else if r>=8 then if 6<=r then for o=38,67 do if 8<r then local o;for r=0,6 do if 2>=r then if 0<r then if 2==r then t(e[d],e[l]);n=n+1;e=f[n];else t(e[d],e[l]);n=n+1;e=f[n];end else t(e[d],e[l]);n=n+1;e=f[n];end else if r>=5 then if r~=3 then for h=13,85 do if 6>r then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];break;end;else t[e[d]]=t[e[l]][e[p]];end else if r>1 then for z=42,68 do if r~=4 then o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];break;end;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];break;end;else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end end end end break;end;local o;for r=0,6 do if r>2 then if r<5 then if 4~=r then t(e[d],e[l]);n=n+1;e=f[n];else t(e[d],e[l]);n=n+1;e=f[n];end else if 2~=r then repeat if r~=6 then t(e[d],e[l]);n=n+1;e=f[n];break;end;o=e[d]t[o]=t[o](h(t,o+1,e[l]))until true;else t(e[d],e[l]);n=n+1;e=f[n];end end else if r>=1 then if 2>r then t[e[d]]=z[e[l]];n=n+1;e=f[n];else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end end end break;end;else local o;for r=0,6 do if 2>=r then if 0<r then if 2==r then t(e[d],e[l]);n=n+1;e=f[n];else t(e[d],e[l]);n=n+1;e=f[n];end else t(e[d],e[l]);n=n+1;e=f[n];end else if r>=5 then if r~=3 then for h=13,85 do if 6>r then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];break;end;else t[e[d]]=t[e[l]][e[p]];end else if r>1 then for z=42,68 do if r~=4 then o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];break;end;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];break;end;else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end end end end end else local r;t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];end end else if r>=3 then if 4<r then if r==5 then local r,h;t[e[d]]=a[e[l]];n=n+1;e=f[n];r=e[d];h=t[e[l]];t[r+1]=h;t[r]=h[e[p]];n=n+1;e=f[n];t[e[d]]=a[e[l]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](t[r+1])else t[e[d]]=a[e[l]];end else if 3~=r then t[e[d]]=t[e[l]][e[p]];else local z;for r=0,5 do if 3<=r then if 4<=r then if r~=4 then t[e[d]][e[l]]=t[e[p]];else z=e[d]t[z]=t[z](h(t,z+1,e[l]))n=n+1;e=f[n];end else t(e[d],e[l]);n=n+1;e=f[n];end else if 0<r then if r>=-3 then for p=40,90 do if r~=2 then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);n=n+1;e=f[n];end else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end end end end else if 0>=r then t[e[d]][e[l]]=e[p];else if r>=-2 then for z=29,87 do if 1<r then local r;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];break;end;for r=0,1 do if-1~=r then for h=25,76 do if r>0 then t[e[d]][e[l]]=t[e[p]];break;end;t[e[d]][e[l]]=e[p];n=n+1;e=f[n];break;end;else t[e[d]][e[l]]=e[p];n=n+1;e=f[n];end end break;end;else local r;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];end end end end else if r>=21 then if 24>=r then if 22<r then if 22<r then repeat if 23~=r then local r,a;for o=0,6 do if o<3 then if o>=1 then if o~=-2 then repeat if 2>o then r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];break;end;r=e[d];a=t[e[l]];t[r+1]=a;t[r]=a[e[p]];n=n+1;e=f[n];until true;else r=e[d];a=t[e[l]];t[r+1]=a;t[r]=a[e[p]];n=n+1;e=f[n];end else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end else if 5>o then if-1~=o then repeat if o>3 then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;r=e[d]t[r](t[r+1])n=n+1;e=f[n];until true;else r=e[d]t[r](t[r+1])n=n+1;e=f[n];end else if o~=4 then for r=24,80 do if 5~=o then t(e[d],e[l]);break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];break;end;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end end end break;end;if not t[e[d]]then n=n+1;else n=e[l];end;until true;else local r,a;for o=0,6 do if o<3 then if o>=1 then if o~=-2 then repeat if 2>o then r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];break;end;r=e[d];a=t[e[l]];t[r+1]=a;t[r]=a[e[p]];n=n+1;e=f[n];until true;else r=e[d];a=t[e[l]];t[r+1]=a;t[r]=a[e[p]];n=n+1;e=f[n];end else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end else if 5>o then if-1~=o then repeat if o>3 then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;r=e[d]t[r](t[r+1])n=n+1;e=f[n];until true;else r=e[d]t[r](t[r+1])n=n+1;e=f[n];end else if o~=4 then for r=24,80 do if 5~=o then t(e[d],e[l]);break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];break;end;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end end end end else if r>18 then repeat if 22>r then local o;for r=0,6 do if 3<=r then if 4<r then if 5<r then t[e[d]][e[l]]=t[e[p]];else o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];end else if r~=0 then for p=49,76 do if 3<r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);n=n+1;e=f[n];end end else if 1>r then t[e[d]]=z[e[l]];n=n+1;e=f[n];else if-3<r then repeat if 1~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end end end break;end;n=e[l];until true;else local o;for r=0,6 do if 3<=r then if 4<r then if 5<r then t[e[d]][e[l]]=t[e[p]];else o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];end else if r~=0 then for p=49,76 do if 3<r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t(e[d],e[l]);n=n+1;e=f[n];end end else if 1>r then t[e[d]]=z[e[l]];n=n+1;e=f[n];else if-3<r then repeat if 1~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end end end end end else if 27<=r then if 27~=r then for e=e[d],e[l]do t[e]=nil;end;else local r;t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t[e[d]]=a[e[l]];n=n+1;e=f[n];t[e[d]]=a[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];if t[e[d]]then n=n+1;else n=e[l];end;end else if 22~=r then for n=27,60 do if 25~=r then local e=e[d]t[e](t[e+1])break;end;t[e[d]][e[l]]=e[p];break;end;else t[e[d]][e[l]]=e[p];end end end else if r<=16 then if r<=14 then z[e[l]]=t[e[d]];else if 15<r then local o;for r=0,6 do if r<3 then if r<1 then o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];else if r>0 then for h=12,59 do if r<2 then t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];break;end;t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end end else if 4<r then if 5~=r then t(e[d],e[l]);else t(e[d],e[l]);n=n+1;e=f[n];end else if 3==r then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];else t(e[d],e[l]);n=n+1;e=f[n];end end end end else if not t[e[d]]then n=n+1;else n=e[l];end;end end else if r<19 then if 13<=r then for o=30,82 do if 17<r then local o;for r=0,6 do if r>2 then if 5<=r then if r~=2 then for h=11,96 do if 6>r then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];break;end;else t[e[d]]=t[e[l]][e[p]];end else if 3~=r then t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];else o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];end end else if r>0 then if 1~=r then t(e[d],e[l]);n=n+1;e=f[n];else t(e[d],e[l]);n=n+1;e=f[n];end else t(e[d],e[l]);n=n+1;e=f[n];end end end break;end;do return end;break;end;else do return end;end else if r>=16 then for o=30,98 do if 19~=r then local e=e[d]t[e]=t[e](t[e+1])break;end;local o,c,a,b,_,k,u,r;t[e[d]]=z[e[l]];n=n+1;e=f[n];o=e[d];c=t[e[l]];t[o+1]=c;t[o]=c[e[p]];n=n+1;e=f[n];r=0;while r>-1 do if 2>=r then if r<=0 then a=e;else if r~=2 then b=d;else _=l;end end else if 4<r then if 1~=r then repeat if 5<r then r=-2;break;end;t(u,k);until true;else t(u,k);end else if 1~=r then for e=21,97 do if r<4 then k=a[_];break;end;u=a[b];break;end;else u=a[b];end end end r=r+1 end n=n+1;e=f[n];o=e[d];do return t[o](h(t,o+1,e[l]))end;n=n+1;e=f[n];o=e[d];do return h(t,o,s)end;n=n+1;e=f[n];do return end;break;end;else local o,k,a,b,_,c,u,r;t[e[d]]=z[e[l]];n=n+1;e=f[n];o=e[d];k=t[e[l]];t[o+1]=k;t[o]=k[e[p]];n=n+1;e=f[n];r=0;while r>-1 do if 2>=r then if r<=0 then a=e;else if r~=2 then b=d;else _=l;end end else if 4<r then if 1~=r then repeat if 5<r then r=-2;break;end;t(u,c);until true;else t(u,c);end else if 1~=r then for e=21,97 do if r<4 then c=a[_];break;end;u=a[b];break;end;else u=a[b];end end end r=r+1 end n=n+1;e=f[n];o=e[d];do return t[o](h(t,o+1,e[l]))end;n=n+1;e=f[n];o=e[d];do return h(t,o,s)end;n=n+1;e=f[n];do return end;end end end end end else if 43>=r then if 36>r then if r<=31 then if 30>r then local e=e[d];do return h(t,e,s)end;else if r>=28 then for o=12,62 do if 31>r then t[e[d]]=k(_[e[l]],nil,z);break;end;local r;t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];break;end;else local r;t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t[e[d]][e[l]]=t[e[p]];end end else if 34<=r then if r~=31 then for o=44,88 do if 34~=r then local o,a,c,k,u,r,_,g,j,m;r=0;while r>-1 do if 2>=r then if 1>r then o=e;else if-1<=r then for e=42,87 do if 1~=r then c=l;break;end;a=d;break;end;else c=l;end end else if 4<r then if r~=6 then t(u,k);else r=-2;end else if-1~=r then for e=27,53 do if r>3 then u=o[a];break;end;k=o[c];break;end;else u=o[a];end end end r=r+1 end n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=0;while r>-1 do if 2<r then if 4<r then if 4~=r then repeat if 6~=r then t(u,k);break;end;r=-2;until true;else r=-2;end else if 1<r then for e=27,82 do if 3<r then u=o[a];break;end;k=o[c];break;end;else u=o[a];end end else if 0>=r then o=e;else if-3<r then repeat if 2~=r then a=d;break;end;c=l;until true;else a=d;end end end r=r+1 end n=n+1;e=f[n];r=0;while r>-1 do if 2>=r then if r>=1 then if-2~=r then for e=24,86 do if 2>r then a=d;break;end;c=l;break;end;else c=l;end else o=e;end else if r>4 then if 6~=r then t(u,k);else r=-2;end else if-1<=r then repeat if r<4 then k=o[c];break;end;u=o[a];until true;else u=o[a];end end end r=r+1 end n=n+1;e=f[n];_=e[d]g,j=b(t[_](h(t,_+1,e[l])))s=j+_-1 m=0;for e=_,s do m=m+1;t[e]=g[m];end;break;end;local h;for r=0,6 do if 3>r then if r<=0 then t[e[d]]=z[e[l]];n=n+1;e=f[n];else if-3~=r then repeat if 1~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end else if 5<=r then if 6~=r then t[e[d]][e[l]]=e[p];n=n+1;e=f[n];else t[e[d]]=a[e[l]];end else if r>=-1 then repeat if r>3 then t[e[d]]=a[e[l]];n=n+1;e=f[n];break;end;h=e[d]t[h](t[h+1])n=n+1;e=f[n];until true;else h=e[d]t[h](t[h+1])n=n+1;e=f[n];end end end end break;end;else local o,a,c,k,u,r,_,j,g,m;r=0;while r>-1 do if 2>=r then if 1>r then o=e;else if-1<=r then for e=42,87 do if 1~=r then c=l;break;end;a=d;break;end;else c=l;end end else if 4<r then if r~=6 then t(u,k);else r=-2;end else if-1~=r then for e=27,53 do if r>3 then u=o[a];break;end;k=o[c];break;end;else u=o[a];end end end r=r+1 end n=n+1;e=f[n];t[e[d]]=z[e[l]];n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=0;while r>-1 do if 2<r then if 4<r then if 4~=r then repeat if 6~=r then t(u,k);break;end;r=-2;until true;else r=-2;end else if 1<r then for e=27,82 do if 3<r then u=o[a];break;end;k=o[c];break;end;else u=o[a];end end else if 0>=r then o=e;else if-3<r then repeat if 2~=r then a=d;break;end;c=l;until true;else a=d;end end end r=r+1 end n=n+1;e=f[n];r=0;while r>-1 do if 2>=r then if r>=1 then if-2~=r then for e=24,86 do if 2>r then a=d;break;end;c=l;break;end;else c=l;end else o=e;end else if r>4 then if 6~=r then t(u,k);else r=-2;end else if-1<=r then repeat if r<4 then k=o[c];break;end;u=o[a];until true;else u=o[a];end end end r=r+1 end n=n+1;e=f[n];_=e[d]j,g=b(t[_](h(t,_+1,e[l])))s=g+_-1 m=0;for e=_,s do m=m+1;t[e]=j[m];end;end else if r~=30 then for o=43,70 do if 32<r then local o;for r=0,6 do if 2>=r then if 1>r then t(e[d],e[l]);n=n+1;e=f[n];else if 2>r then t(e[d],e[l]);n=n+1;e=f[n];else o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];end end else if 5<=r then if r~=3 then repeat if r~=5 then t(e[d],e[l]);break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end else if r~=0 then repeat if 3<r then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];until true;else t[e[d]]=z[e[l]];n=n+1;e=f[n];end end end end break;end;local r;for o=0,6 do if 2<o then if o>4 then if o~=2 then for r=40,81 do if 6>o then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];break;end;else t[e[d]]=t[e[l]][e[p]];end else if-1<=o then for p=35,95 do if o~=3 then r=e[d]t[r]=t[r](t[r+1])n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else r=e[d]t[r]=t[r](t[r+1])n=n+1;e=f[n];end end else if 0<o then if o>-2 then for r=22,77 do if o>1 then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];break;end;t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;else t[e[d]]=z[e[l]];n=n+1;e=f[n];end else r=e[d]t[r](h(t,r+1,e[l]))n=n+1;e=f[n];end end end break;end;else local o;for r=0,6 do if 2>=r then if 1>r then t(e[d],e[l]);n=n+1;e=f[n];else if 2>r then t(e[d],e[l]);n=n+1;e=f[n];else o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];end end else if 5<=r then if r~=3 then repeat if r~=5 then t(e[d],e[l]);break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end else if r~=0 then repeat if 3<r then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];until true;else t[e[d]]=z[e[l]];n=n+1;e=f[n];end end end end end end end else if 40<=r then if r>=42 then if 41~=r then repeat if 43>r then for e=e[d],e[l]do t[e]=nil;end;break;end;local p;for r=0,3 do if 1>=r then if-2<r then for p=30,83 do if r~=0 then t[e[d]]=t[e[l]];n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t[e[d]]=t[e[l]];n=n+1;e=f[n];end else if 0<=r then for z=36,55 do if r~=3 then p=e[d]t[p](h(t,p+1,e[l]))n=n+1;e=f[n];break;end;for e=e[d],e[l]do t[e]=nil;end;break;end;else p=e[d]t[p](h(t,p+1,e[l]))n=n+1;e=f[n];end end end until true;else local p;for r=0,3 do if 1>=r then if-2<r then for p=30,83 do if r~=0 then t[e[d]]=t[e[l]];n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t[e[d]]=t[e[l]];n=n+1;e=f[n];end else if 0<=r then for z=36,55 do if r~=3 then p=e[d]t[p](h(t,p+1,e[l]))n=n+1;e=f[n];break;end;for e=e[d],e[l]do t[e]=nil;end;break;end;else p=e[d]t[p](h(t,p+1,e[l]))n=n+1;e=f[n];end end end end else if 36<r then repeat if 41~=r then for r=0,6 do if 3<=r then if r>4 then if 5~=r then t(e[d],e[l]);else t(e[d],e[l]);n=n+1;e=f[n];end else if r~=3 then t(e[d],e[l]);n=n+1;e=f[n];else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end end else if 0>=r then t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];else if 1~=r then t[e[d]]=z[e[l]];n=n+1;e=f[n];else t[e[d]][e[l]]=e[p];n=n+1;e=f[n];end end end end break;end;local h;for r=0,6 do if r<3 then if r>0 then if-2<r then for h=35,95 do if r>1 then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];break;end;else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end else t[e[d]][e[l]]=e[p];n=n+1;e=f[n];end else if r<5 then if 2<r then for h=35,89 do if 4>r then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end else if r>=1 then for z=16,61 do if r<6 then h=e[d]t[h]=t[h](t[h+1])n=n+1;e=f[n];break;end;t[e[d]][e[l]]=e[p];break;end;else t[e[d]][e[l]]=e[p];end end end end until true;else local h;for r=0,6 do if r<3 then if r>0 then if-2<r then for h=35,95 do if r>1 then t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];break;end;else t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];end else t[e[d]][e[l]]=e[p];n=n+1;e=f[n];end else if r<5 then if 2<r then for h=35,89 do if 4>r then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];break;end;else t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];end else if r>=1 then for z=16,61 do if r<6 then h=e[d]t[h]=t[h](t[h+1])n=n+1;e=f[n];break;end;t[e[d]][e[l]]=e[p];break;end;else t[e[d]][e[l]]=e[p];end end end end end end else if 38<=r then if 34<=r then repeat if 38~=r then local e=e[d];do return h(t,e,s)end;break;end;local r,z;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];r=e[d];z=t[e[l]];t[r+1]=z;t[r]=z[e[p]];n=n+1;e=f[n];t[e[d]]=t[e[l]];n=n+1;e=f[n];r=e[d]t[r](h(t,r+1,e[l]))n=n+1;e=f[n];do return end;until true;else local r,z;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];r=e[d];z=t[e[l]];t[r+1]=z;t[r]=z[e[p]];n=n+1;e=f[n];t[e[d]]=t[e[l]];n=n+1;e=f[n];r=e[d]t[r](h(t,r+1,e[l]))n=n+1;e=f[n];do return end;end else if 35<r then for n=23,87 do if 37>r then local n=e[d]local d,e=b(t[n](h(t,n+1,e[l])))s=e+n-1 local e=0;for n=n,s do e=e+1;t[n]=d[e];end;break;end;t[e[d]][e[l]]=t[e[p]];break;end;else local n=e[d]local d,e=b(t[n](h(t,n+1,e[l])))s=e+n-1 local e=0;for n=n,s do e=e+1;t[n]=d[e];end;end end end end else if 51>r then if r<47 then if r>=45 then if 42<=r then repeat if r~=45 then local o,u,s,c,a,r,b;for r=0,6 do if r<3 then if r<1 then t[e[d]]=z[e[l]];n=n+1;e=f[n];else if r>=-1 then repeat if 1~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end end else if 5>r then if 2<r then for p=48,65 do if 3<r then t(e[d],e[l]);n=n+1;e=f[n];break;end;r=0;while r>-1 do if 3<=r then if 4>=r then if r>=2 then repeat if 4~=r then c=o[s];break;end;a=o[u];until true;else a=o[u];end else if 1~=r then repeat if r>5 then r=-2;break;end;t(a,c);until true;else r=-2;end end else if r<1 then o=e;else if r>=-3 then repeat if 2~=r then u=d;break;end;s=l;until true;else s=l;end end end r=r+1 end n=n+1;e=f[n];break;end;else r=0;while r>-1 do if 3<=r then if 4>=r then if r>=2 then repeat if 4~=r then c=o[s];break;end;a=o[u];until true;else a=o[u];end else if 1~=r then repeat if r>5 then r=-2;break;end;t(a,c);until true;else r=-2;end end else if r<1 then o=e;else if r>=-3 then repeat if 2~=r then u=d;break;end;s=l;until true;else s=l;end end end r=r+1 end n=n+1;e=f[n];end else if r~=6 then b=e[d]t[b]=t[b](h(t,b+1,e[l]))n=n+1;e=f[n];else t[e[d]][e[l]]=t[e[p]];end end end end break;end;local s=_[e[l]];local h;local r={};h=o.bMDGUDPm({},{__index=function(n,e)local e=r[e];return e[1][e[2]];end,__newindex=function(t,e,n)local e=r[e]e[1][e[2]]=n;end;});for d=1,e[p]do n=n+1;local e=f[n];if e[m]==113 then r[d-1]={t,e[l]};else r[d-1]={a,e[l]};end;u[#u+1]=r;end;t[e[d]]=k(s,h,z);until true;else local s=_[e[l]];local h;local r={};h=o.bMDGUDPm({},{__index=function(n,e)local e=r[e];return e[1][e[2]];end,__newindex=function(t,e,n)local e=r[e]e[1][e[2]]=n;end;});for d=1,e[p]do n=n+1;local e=f[n];if e[m]==113 then r[d-1]={t,e[l]};else r[d-1]={a,e[l]};end;u[#u+1]=r;end;t[e[d]]=k(s,h,z);end else local n=e[d];local d=t[n];for e=n+1,e[l]do o.CeyVXpVL(d,t[e])end;end else if 49>r then if r>=45 then repeat if 48>r then local n=e[d]t[n](h(t,n+1,e[l]))break;end;local n=e[d]t[n]=t[n](h(t,n+1,e[l]))until true;else local n=e[d]t[n]=t[n](h(t,n+1,e[l]))end else if r~=48 then repeat if r<50 then n=e[l];break;end;local s=_[e[l]];local h;local r={};h=o.bMDGUDPm({},{__index=function(n,e)local e=r[e];return e[1][e[2]];end,__newindex=function(t,e,n)local e=r[e]e[1][e[2]]=n;end;});for d=1,e[p]do n=n+1;local e=f[n];if e[m]==113 then r[d-1]={t,e[l]};else r[d-1]={a,e[l]};end;u[#u+1]=r;end;t[e[d]]=k(s,h,z);until true;else local s=_[e[l]];local h;local r={};h=o.bMDGUDPm({},{__index=function(n,e)local e=r[e];return e[1][e[2]];end,__newindex=function(t,e,n)local e=r[e]e[1][e[2]]=n;end;});for d=1,e[p]do n=n+1;local e=f[n];if e[m]==113 then r[d-1]={t,e[l]};else r[d-1]={a,e[l]};end;u[#u+1]=r;end;t[e[d]]=k(s,h,z);end end end else if r>54 then if r<57 then if r>=51 then for o=16,80 do if r<56 then local r,z;r=e[d];z=t[e[l]];t[r+1]=z;t[r]=z[e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))n=n+1;e=f[n];t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];r=e[d];z=t[e[l]];t[r+1]=z;t[r]=z[e[p]];n=n+1;e=f[n];t(e[d],e[l]);n=n+1;e=f[n];r=e[d]t[r]=t[r](h(t,r+1,e[l]))break;end;t[e[d]]=z[e[l]];break;end;else t[e[d]]=z[e[l]];end else if 53<r then for o=40,54 do if 57~=r then local n=e[d];do return t[n](h(t,n+1,e[l]))end;break;end;local h;for r=0,6 do if 2>=r then if 0>=r then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];else if 0<=r then repeat if r>1 then h=e[d]t[h]=t[h](t[h+1])n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end end else if 5<=r then if r>2 then for h=46,80 do if r>5 then t[e[d]]=t[e[l]][e[p]];break;end;t[e[d]]=z[e[l]];n=n+1;e=f[n];break;end;else t[e[d]]=t[e[l]][e[p]];end else if 0~=r then repeat if 3~=r then t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];break;end;t[e[d]][e[l]]=e[p];n=n+1;e=f[n];until true;else t[e[d]][e[l]]=e[p];n=n+1;e=f[n];end end end end break;end;else local n=e[d];do return t[n](h(t,n+1,e[l]))end;end end else if r>=53 then if r>50 then for n=13,69 do if 54>r then local e=e[d]t[e](h(t,e+1,s))break;end;local n=e[d];local d=t[n];for e=n+1,e[l]do o.CeyVXpVL(d,t[e])end;break;end;else local e=e[d]t[e](h(t,e+1,s))end else if 47~=r then for o=32,85 do if r~=51 then local o;for r=0,6 do if r<3 then if 1<=r then if r>=-2 then for z=32,74 do if r<2 then o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];break;end;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];break;end;else o=e[d]t[o]=t[o](h(t,o+1,e[l]))n=n+1;e=f[n];end else t(e[d],e[l]);n=n+1;e=f[n];end else if 4>=r then if-1~=r then repeat if 4~=r then t[e[d]][e[l]]=e[p];n=n+1;e=f[n];break;end;t[e[d]][e[l]]=t[e[p]];n=n+1;e=f[n];until true;else t[e[d]][e[l]]=e[p];n=n+1;e=f[n];end else if 4<=r then repeat if r~=5 then t[e[d]]=t[e[l]][e[p]];break;end;t[e[d]]=z[e[l]];n=n+1;e=f[n];until true;else t[e[d]]=z[e[l]];n=n+1;e=f[n];end end end end break;end;local z;for r=0,6 do if r<=2 then if 1>r then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];else if r~=2 then t(e[d],e[l]);n=n+1;e=f[n];else t(e[d],e[l]);n=n+1;e=f[n];end end else if 4>=r then if-1<r then repeat if 3~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end else if 2~=r then for o=49,86 do if 5<r then t[e[d]][e[l]]=t[e[p]];break;end;z=e[d]t[z]=t[z](h(t,z+1,e[l]))n=n+1;e=f[n];break;end;else t[e[d]][e[l]]=t[e[p]];end end end end break;end;else local z;for r=0,6 do if r<=2 then if 1>r then t[e[d]]=t[e[l]][e[p]];n=n+1;e=f[n];else if r~=2 then t(e[d],e[l]);n=n+1;e=f[n];else t(e[d],e[l]);n=n+1;e=f[n];end end else if 4>=r then if-1<r then repeat if 3~=r then t(e[d],e[l]);n=n+1;e=f[n];break;end;t(e[d],e[l]);n=n+1;e=f[n];until true;else t(e[d],e[l]);n=n+1;e=f[n];end else if 2~=r then for o=49,86 do if 5<r then t[e[d]][e[l]]=t[e[p]];break;end;z=e[d]t[z]=t[z](h(t,z+1,e[l]))n=n+1;e=f[n];break;end;else t[e[d]][e[l]]=t[e[p]];end end end end end end end end end end end n=1+n;end;end;return te end;local d=0xff;local z={};local p=(1);local l='';(function(n)local t=n local f=0x00 local e=0x00 t={(function(d)if f>0x24 then return d end f=f+1 e=(e+0x1282-d)%0x34 return(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x6b);end return true end)'iFCQP'and t[0x2](0xae+d))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x5f);end return true end)'iJSuD'and t[0x1](d+0x25f))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x96);end return true end)'Zwnhw'and t[0x3](d+0x16a))or d end),(function(r)if f>0x2b then return r end f=f+1 e=(e+0x12fb-r)%0x23 return(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x8c);l='\37';d={function()d()end};l=l..'\100\43';end return true end)'heUoQ'and t[0x2](0x1f9+r))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x71);end return true end)'Astvl'and t[0x1](r+0x115))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x46);l={l..'\58 a',l};z[p]=le();p=p+((not o.HYmgmVtA)and 1 or 0);l[1]='\58'..l[1];d[2]=0xff;end return true end)'AfLaf'and t[0x3](r+0x2bf))or r end),(function(r)if f>0x29 then return r end f=f+1 e=(e+0x80a-r)%0x3e return(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xad);z[p]=fe();p=p+d;end return true end)'czWhy'and t[0x2](0x219+r))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x82);end return true end)'jISer'and t[0x1](r+0xa3))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xa5);d[2]=(d[2]*(te(function()z()end,h(l))-te(d[1],h(l))))+1;z[p]={};d=d[2];p=p+d;end return true end)'ixKsK'and t[0x3](r+0x95))or r end)}t[0x2](0x1b2a)end){};local e=k(h(z));return e(...);end return de((function()local n={}local e=0x01;local t;if o.HYmgmVtA then t=o.HYmgmVtA(de)else t=''end if o.vOjGsOHA(t,o.dRKMORlS)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(t,e,n,d,l,f)local f;if 3>=t then if 2>t then if t==1 then do return function(n,e,t)if t then local e=(n/2^(e-1))%2^((t-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;else do return e(1),e(4,l,d,n,e),e(5,l,d,n)end;end else if 1~=t then for f=38,78 do if t>2 then do return e(1),e(4,l,d,n,e),e(5,l,d,n)end;break;end;do return 16777216,65536,256 end;break;end;else do return e(1),e(4,l,d,n,e),e(5,l,d,n)end;end end else if t>=6 then if 7>t then do return l[n]end;else if t<8 then do return setmetatable({},{['__\99\97\108\108']=function(e,l,d,t,n)if n then return e[n]elseif t then return e else e[l]=d end end})end else do return n(t,nil,n);end end end else if t~=1 then for f=24,87 do if t<5 then local t=d;local r,l,d=l(2);do return function()local e,p,f,n=e(n,t(t,t),t(t,t)+3);t(4);return(n*r)+(f*l)+(p*d)+e;end;end;break;end;local t=d;do return function()local e=e(n,t(t,t),t(t,t));t(1);return e;end;end;break;end;else local t=d;do return function()local e=e(n,t(t,t),t(t,t));t(1);return e;end;end;end end end end),...)
+-- init
+local player = game.Players.LocalPlayer
+local mouse = player:GetMouse()
+
+-- services
+local input = game:GetService("UserInputService")
+local run = game:GetService("RunService")
+local tween = game:GetService("TweenService")
+local tweeninfo = TweenInfo.new
+
+-- additional
+local utility = {}
+
+-- themes
+local objects = {}
+local themes = {
+	Background = Color3.fromRGB(24, 24, 24), 
+	Glow = Color3.fromRGB(0, 0, 0), 
+	Accent = Color3.fromRGB(10, 10, 10), 
+	LightContrast = Color3.fromRGB(20, 20, 20), 
+	DarkContrast = Color3.fromRGB(14, 14, 14),  
+	TextColor = Color3.fromRGB(255, 255, 255)
+}
+
+do
+	function utility:Create(instance, properties, children)
+		local object = Instance.new(instance)
+		
+		for i, v in pairs(properties or {}) do
+			object[i] = v
+			
+			if typeof(v) == "Color3" then -- save for theme changer later
+				local theme = utility:Find(themes, v)
+				
+				if theme then
+					objects[theme] = objects[theme] or {}
+					objects[theme][i] = objects[theme][i] or setmetatable({}, {_mode = "k"})
+					
+					table.insert(objects[theme][i], object)
+				end
+			end
+		end
+		
+		for i, module in pairs(children or {}) do
+			module.Parent = object
+		end
+		
+		return object
+	end
+	
+	function utility:Tween(instance, properties, duration, ...)
+		tween:Create(instance, tweeninfo(duration, ...), properties):Play()
+	end
+	
+	function utility:Wait()
+		run.RenderStepped:Wait()
+		return true
+	end
+	
+	function utility:Find(table, value) -- table.find doesn't work for dictionaries
+		for i, v in  pairs(table) do
+			if v == value then
+				return i
+			end
+		end
+	end
+	
+	function utility:Sort(pattern, values)
+		local new = {}
+		pattern = pattern:lower()
+		
+		if pattern == "" then
+			return values
+		end
+		
+		for i, value in pairs(values) do
+			if tostring(value):lower():find(pattern) then
+				table.insert(new, value)
+			end
+		end
+		
+		return new
+	end
+	
+	function utility:Pop(object, shrink)
+		local clone = object:Clone()
+		
+		clone.AnchorPoint = Vector2.new(0.5, 0.5)
+		clone.Size = clone.Size - UDim2.new(0, shrink, 0, shrink)
+		clone.Position = UDim2.new(0.5, 0, 0.5, 0)
+		
+		clone.Parent = object
+		clone:ClearAllChildren()
+		
+		object.ImageTransparency = 1
+		utility:Tween(clone, {Size = object.Size}, 0.2)
+		
+		spawn(function()
+			wait(0.2)
+		
+			object.ImageTransparency = 0
+			clone:Destroy()
+		end)
+		
+		return clone
+	end
+	
+	function utility:InitializeKeybind()
+		self.keybinds = {}
+		self.ended = {}
+		
+		input.InputBegan:Connect(function(key)
+			if self.keybinds[key.KeyCode] then
+				for i, bind in pairs(self.keybinds[key.KeyCode]) do
+					bind()
+				end
+			end
+		end)
+		
+		input.InputEnded:Connect(function(key)
+			if key.UserInputType == Enum.UserInputType.MouseButton1 then
+				for i, callback in pairs(self.ended) do
+					callback()
+				end
+			end
+		end)
+	end
+	
+	function utility:BindToKey(key, callback)
+		 
+		self.keybinds[key] = self.keybinds[key] or {}
+		
+		table.insert(self.keybinds[key], callback)
+		
+		return {
+			UnBind = function()
+				for i, bind in pairs(self.keybinds[key]) do
+					if bind == callback then
+						table.remove(self.keybinds[key], i)
+					end
+				end
+			end
+		}
+	end
+	
+	function utility:KeyPressed() -- yield until next key is pressed
+		local key = input.InputBegan:Wait()
+		
+		while key.UserInputType ~= Enum.UserInputType.Keyboard	 do
+			key = input.InputBegan:Wait()
+		end
+		
+		wait() -- overlapping connection
+		
+		return key
+	end
+	
+	function utility:DraggingEnabled(frame, parent)
+	
+		parent = parent or frame
+		
+		-- stolen from wally or kiriot, kek
+		local dragging = false
+		local dragInput, mousePos, framePos
+
+		frame.InputBegan:Connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 then
+				dragging = true
+				mousePos = input.Position
+				framePos = parent.Position
+				
+				input.Changed:Connect(function()
+					if input.UserInputState == Enum.UserInputState.End then
+						dragging = false
+					end
+				end)
+			end
+		end)
+
+		frame.InputChanged:Connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseMovement then
+				dragInput = input
+			end
+		end)
+
+		input.InputChanged:Connect(function(input)
+			if input == dragInput and dragging then
+				local delta = input.Position - mousePos
+				parent.Position  = UDim2.new(framePos.X.Scale, framePos.X.Offset + delta.X, framePos.Y.Scale, framePos.Y.Offset + delta.Y)
+			end
+		end)
+
+	end
+	
+	function utility:DraggingEnded(callback)
+		table.insert(self.ended, callback)
+	end
+	
+end
+
+-- classes
+
+local library = {} -- main
+local page = {}
+local section = {}
+
+do
+	library.__index = library
+	page.__index = page
+	section.__index = section
+	
+	-- new classes
+	
+	function library.new(title)
+		local container = utility:Create("ScreenGui", {
+			Name = title,
+			Parent = game.CoreGui
+		}, {
+			utility:Create("ImageLabel", {
+				Name = "Main",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0.25, 0, 0.052435593, 0),
+				Size = UDim2.new(0, 511, 0, 428),
+				Image = "rbxassetid://4641149554",
+				ImageColor3 = themes.Background,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(4, 4, 296, 296)
+			}, {
+				utility:Create("ImageLabel", {
+					Name = "Glow",
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, -15, 0, -15),
+					Size = UDim2.new(1, 30, 1, 30),
+					ZIndex = 0,
+					Image = "rbxassetid://5028857084",
+					ImageColor3 = themes.Glow,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(24, 24, 276, 276)
+				}),
+				utility:Create("ImageLabel", {
+					Name = "Pages",
+					BackgroundTransparency = 1,
+					ClipsDescendants = true,
+					Position = UDim2.new(0, 0, 0, 38),
+					Size = UDim2.new(0, 126, 1, -38),
+					ZIndex = 3,
+					Image = "rbxassetid://5012534273",
+					ImageColor3 = themes.DarkContrast,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(4, 4, 296, 296)
+				}, {
+					utility:Create("ScrollingFrame", {
+						Name = "Pages_Container",
+						Active = true,
+						BackgroundTransparency = 1,
+						Position = UDim2.new(0, 0, 0, 10),
+						Size = UDim2.new(1, 0, 1, -20),
+						CanvasSize = UDim2.new(0, 0, 0, 314),
+						ScrollBarThickness = 0
+					}, {
+						utility:Create("UIListLayout", {
+							SortOrder = Enum.SortOrder.LayoutOrder,
+							Padding = UDim.new(0, 10)
+						})
+					})
+				}),
+				utility:Create("ImageLabel", {
+					Name = "TopBar",
+					BackgroundTransparency = 1,
+					ClipsDescendants = true,
+					Size = UDim2.new(1, 0, 0, 38),
+					ZIndex = 5,
+					Image = "rbxassetid://4595286933",
+					ImageColor3 = themes.Accent,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(4, 4, 296, 296)
+				}, {
+					utility:Create("TextLabel", { -- title
+						Name = "Title",
+						AnchorPoint = Vector2.new(0, 0.5),
+						BackgroundTransparency = 1,
+						Position = UDim2.new(0, 12, 0, 19),
+						Size = UDim2.new(1, -46, 0, 16),
+						ZIndex = 5,
+						Font = Enum.Font.GothamBold,
+						Text = title,
+						TextColor3 = themes.TextColor,
+						TextSize = 14,
+						TextXAlignment = Enum.TextXAlignment.Left
+					})
+				})
+			})
+		})
+		
+		utility:InitializeKeybind()
+		utility:DraggingEnabled(container.Main.TopBar, container.Main)
+		
+		return setmetatable({
+			container = container,
+			pagesContainer = container.Main.Pages.Pages_Container,
+			pages = {}
+		}, library)
+	end
+	
+	function page.new(library, title, icon)
+		local button = utility:Create("TextButton", {
+			Name = title,
+			Parent = library.pagesContainer,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 26),
+			ZIndex = 3,
+			AutoButtonColor = false,
+			Font = Enum.Font.Gotham,
+			Text = "",
+			TextSize = 14
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 40, 0.5, 0),
+				Size = UDim2.new(0, 76, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.65,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			icon and utility:Create("ImageLabel", {
+				Name = "Icon", 
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 12, 0.5, 0),
+				Size = UDim2.new(0, 16, 0, 16),
+				ZIndex = 3,
+				Image = "rbxassetid://" .. tostring(icon),
+				ImageColor3 = themes.TextColor,
+				ImageTransparency = 0.64,
+				ScaleType = Enum.ScaleType.Fit
+			}) or {}
+		})
+		
+		local container = utility:Create("ScrollingFrame", {
+			Name = title,
+			Parent = library.container.Main,
+			Active = true,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Position = UDim2.new(0, 134, 0, 46),
+			Size = UDim2.new(1, -142, 1, -56),
+			CanvasSize = UDim2.new(0, 0, 0, 466),
+			ScrollBarThickness = 3,
+			ScrollBarImageColor3 = themes.DarkContrast,
+			Visible = false
+		}, {
+			utility:Create("UIListLayout", {
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				Padding = UDim.new(0, 10)
+			})
+		})
+		
+		return setmetatable({
+			library = library,
+			container = container,
+			button = button,
+			sections = {}
+		}, page)
+	end
+	
+	function section.new(page, title)
+		local container = utility:Create("ImageLabel", {
+			Name = title,
+			Parent = page.container,
+			BackgroundTransparency = 1,
+			Size = UDim2.new(1, -10, 0, 28),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.LightContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(4, 4, 296, 296),
+			ClipsDescendants = true
+		}, {
+			utility:Create("Frame", {
+				Name = "Container",
+				Active = true,
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Position = UDim2.new(0, 8, 0, 8),
+				Size = UDim2.new(1, -16, 1, -16)
+			}, {
+				utility:Create("TextLabel", {
+					Name = "Title",
+					BackgroundTransparency = 1,
+					Size = UDim2.new(1, 0, 0, 20),
+					ZIndex = 2,
+					Font = Enum.Font.GothamSemibold,
+					Text = title,
+					TextColor3 = themes.TextColor,
+					TextSize = 12,
+					TextXAlignment = Enum.TextXAlignment.Left,
+					TextTransparency = 1
+				}),
+				utility:Create("UIListLayout", {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					Padding = UDim.new(0, 4)
+				})
+			})
+		})
+		
+		return setmetatable({
+			page = page,
+			container = container.Container,
+			colorpickers = {},
+			modules = {},
+			binds = {},
+			lists = {},
+		}, section) 
+	end
+	
+	function library:addPage(...)
+	
+		local page = page.new(self, ...)
+		local button = page.button
+		
+		table.insert(self.pages, page)
+
+		button.MouseButton1Click:Connect(function()
+			self:SelectPage(page, true)
+		end)
+		
+		return page
+	end
+	
+	function page:addSection(...)
+		local section = section.new(self, ...)
+		
+		table.insert(self.sections, section)
+		
+		return section
+	end
+	
+	-- functions
+	
+	function library:setTheme(theme, color3)
+		themes[theme] = color3
+		
+		for property, objects in pairs(objects[theme]) do
+			for i, object in pairs(objects) do
+				if not object.Parent or (object.Name == "Button" and object.Parent.Name == "ColorPicker") then
+					objects[i] = nil -- i can do this because weak tables :D
+				else
+					object[property] = color3
+				end
+			end
+		end
+	end
+	
+	function library:toggle()
+	
+		if self.toggling then
+			return
+		end
+		
+		self.toggling = true
+		
+		local container = self.container.Main
+		local topbar = container.TopBar
+		
+		if self.position then
+			utility:Tween(container, {
+				Size = UDim2.new(0, 511, 0, 428),
+				Position = self.position
+			}, 0.2)
+			wait(0.2)
+			
+			utility:Tween(topbar, {Size = UDim2.new(1, 0, 0, 38)}, 0.2)
+			wait(0.2)
+			
+			container.ClipsDescendants = false
+			self.position = nil
+		else
+			self.position = container.Position
+			container.ClipsDescendants = true
+			
+			utility:Tween(topbar, {Size = UDim2.new(1, 0, 1, 0)}, 0.2)
+			wait(0.2)
+			
+			utility:Tween(container, {
+				Size = UDim2.new(0, 511, 0, 0),
+				Position = self.position + UDim2.new(0, 0, 0, 428)
+			}, 0.2)
+			wait(0.2)
+		end
+		
+		self.toggling = false
+	end
+	
+	-- new modules
+	
+	function library:Notify(title, text, callback)
+	
+		-- overwrite last notification
+		if self.activeNotification then
+			self.activeNotification = self.activeNotification()
+		end
+		
+		-- standard create
+		local notification = utility:Create("ImageLabel", {
+			Name = "Notification",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			Size = UDim2.new(0, 200, 0, 60),
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.Background,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(4, 4, 296, 296),
+			ZIndex = 3,
+			ClipsDescendants = true
+		}, {
+			utility:Create("ImageLabel", {
+				Name = "Flash",
+				Size = UDim2.new(1, 0, 1, 0),
+				BackgroundTransparency = 1,
+				Image = "rbxassetid://4641149554",
+				ImageColor3 = themes.TextColor,
+				ZIndex = 5
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Glow",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, -15, 0, -15),
+				Size = UDim2.new(1, 30, 1, 30),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857084",
+				ImageColor3 = themes.Glow,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(24, 24, 276, 276)
+			}),
+			utility:Create("TextLabel", {
+				Name = "Title",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0, 8),
+				Size = UDim2.new(1, -40, 0, 16),
+				ZIndex = 4,
+				Font = Enum.Font.GothamSemibold,
+				TextColor3 = themes.TextColor,
+				TextSize = 14.000,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("TextLabel", {
+				Name = "Text",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 1, -24),
+				Size = UDim2.new(1, -40, 0, 16),
+				ZIndex = 4,
+				Font = Enum.Font.Gotham,
+				TextColor3 = themes.TextColor,
+				TextSize = 12.000,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageButton", {
+				Name = "Accept",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -26, 0, 8),
+				Size = UDim2.new(0, 16, 0, 16),
+				Image = "rbxassetid://5012538259",
+				ImageColor3 = themes.TextColor,
+				ZIndex = 4
+			}),
+			utility:Create("ImageButton", {
+				Name = "Decline",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -26, 1, -24),
+				Size = UDim2.new(0, 16, 0, 16),
+				Image = "rbxassetid://5012538583",
+				ImageColor3 = themes.TextColor,
+				ZIndex = 4
+			})
+		})
+		
+		-- dragging
+		utility:DraggingEnabled(notification)
+		
+		-- position and size
+		title = title or "Notification"
+		text = text or ""
+		
+		notification.Title.Text = title
+		notification.Text.Text = text
+		
+		local padding = 10
+		local textSize = game:GetService("TextService"):GetTextSize(text, 12, Enum.Font.Gotham, Vector2.new(math.huge, 16))
+		
+		notification.Position = library.lastNotification or UDim2.new(0, padding, 1, -(notification.AbsoluteSize.Y + padding))
+		notification.Size = UDim2.new(0, 0, 0, 60)
+		
+		utility:Tween(notification, {Size = UDim2.new(0, textSize.X + 70, 0, 60)}, 0.2)
+		wait(0.2)
+		
+		notification.ClipsDescendants = false
+		utility:Tween(notification.Flash, {
+			Size = UDim2.new(0, 0, 0, 60),
+			Position = UDim2.new(1, 0, 0, 0)
+		}, 0.2)
+		
+		-- callbacks
+		local active = true
+		local close = function()
+		
+			if not active then
+				return
+			end
+			
+			active = false
+			notification.ClipsDescendants = true
+			
+			library.lastNotification = notification.Position
+			notification.Flash.Position = UDim2.new(0, 0, 0, 0)
+			utility:Tween(notification.Flash, {Size = UDim2.new(1, 0, 1, 0)}, 0.2)
+			
+			wait(0.2)
+			utility:Tween(notification, {
+				Size = UDim2.new(0, 0, 0, 60),
+				Position = notification.Position + UDim2.new(0, textSize.X + 70, 0, 0)
+			}, 0.2)
+			
+			wait(0.2)
+			notification:Destroy()
+		end
+		
+		self.activeNotification = close
+		
+		notification.Accept.MouseButton1Click:Connect(function()
+		
+			if not active then 
+				return
+			end
+			
+			if callback then
+				callback(true)
+			end
+			
+			close()
+		end)
+		
+		notification.Decline.MouseButton1Click:Connect(function()
+		
+			if not active then 
+				return
+			end
+			
+			if callback then
+				callback(false)
+			end
+			
+			close()
+		end)
+	end
+	
+	function section:addButton(title, callback)
+		local button = utility:Create("ImageButton", {
+			Name = "Button",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012
+			})
+		})
+		
+		table.insert(self.modules, button)
+		--self:Resize()
+		
+		local text = button.Title
+		local debounce
+		
+		button.MouseButton1Click:Connect(function()
+			
+			if debounce then
+				return
+			end
+			
+			-- animation
+			utility:Pop(button, 10)
+			
+			debounce = true
+			text.TextSize = 0
+			utility:Tween(button.Title, {TextSize = 14}, 0.2)
+			
+			wait(0.2)
+			utility:Tween(button.Title, {TextSize = 12}, 0.2)
+			
+			if callback then
+				callback(function(...)
+					self:updateButton(button, ...)
+				end)
+			end
+			
+			debounce = false
+		end)
+		
+		return button
+	end
+	
+	function section:addToggle(title, default, callback)
+		local toggle = utility:Create("ImageButton", {
+			Name = "Toggle",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		},{
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0.5, 1),
+				Size = UDim2.new(0.5, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Button",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Position = UDim2.new(1, -50, 0.5, -8),
+				Size = UDim2.new(0, 40, 0, 16),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.LightContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("ImageLabel", {
+					Name = "Frame",
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, 2, 0.5, -6),
+					Size = UDim2.new(1, -22, 1, -4),
+					ZIndex = 2,
+					Image = "rbxassetid://5028857472",
+					ImageColor3 = themes.TextColor,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				})
+			})
+		})
+		
+		table.insert(self.modules, toggle)
+		--self:Resize()
+		
+		local active = default
+		self:updateToggle(toggle, nil, active)
+		
+		toggle.MouseButton1Click:Connect(function()
+			active = not active
+			self:updateToggle(toggle, nil, active)
+			
+			if callback then
+				callback(active, function(...)
+					self:updateToggle(toggle, ...)
+				end)
+			end
+		end)
+		
+		return toggle
+	end
+	
+	function section:addTextbox(title, default, callback)
+		local textbox = utility:Create("ImageButton", {
+			Name = "Textbox",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0.5, 1),
+				Size = UDim2.new(0.5, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Button",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -110, 0.5, -8),
+				Size = UDim2.new(0, 100, 0, 16),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.LightContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("TextBox", {
+					Name = "Textbox", 
+					BackgroundTransparency = 1,
+					TextTruncate = Enum.TextTruncate.AtEnd,
+					Position = UDim2.new(0, 5, 0, 0),
+					Size = UDim2.new(1, -10, 1, 0),
+					ZIndex = 3,
+					Font = Enum.Font.GothamSemibold,
+					Text = default or "",
+					TextColor3 = themes.TextColor,
+					TextSize = 11
+				})
+			})
+		})
+		
+		table.insert(self.modules, textbox)
+		--self:Resize()
+		
+		local button = textbox.Button
+		local input = button.Textbox
+		
+		textbox.MouseButton1Click:Connect(function()
+		
+			if textbox.Button.Size ~= UDim2.new(0, 100, 0, 16) then
+				return
+			end
+			
+			utility:Tween(textbox.Button, {
+				Size = UDim2.new(0, 200, 0, 16),
+				Position = UDim2.new(1, -210, 0.5, -8)
+			}, 0.2)
+			
+			wait()
+
+			input.TextXAlignment = Enum.TextXAlignment.Left
+			input:CaptureFocus()
+		end)
+		
+		input:GetPropertyChangedSignal("Text"):Connect(function()
+			
+			if button.ImageTransparency == 0 and (button.Size == UDim2.new(0, 200, 0, 16) or button.Size == UDim2.new(0, 100, 0, 16)) then -- i know, i dont like this either
+				utility:Pop(button, 10)
+			end
+			
+			if callback then
+				callback(input.Text, nil, function(...)
+					self:updateTextbox(textbox, ...)
+				end)
+			end
+		end)
+		
+		input.FocusLost:Connect(function()
+			
+			input.TextXAlignment = Enum.TextXAlignment.Center
+			
+			utility:Tween(textbox.Button, {
+				Size = UDim2.new(0, 100, 0, 16),
+				Position = UDim2.new(1, -110, 0.5, -8)
+			}, 0.2)
+			
+			if callback then
+				callback(input.Text, true, function(...)
+					self:updateTextbox(textbox, ...)
+				end)
+			end
+		end)
+		
+		return textbox
+	end
+	
+	function section:addKeybind(title, default, callback, changedCallback)
+		local keybind = utility:Create("ImageButton", {
+			Name = "Keybind",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0.5, 1),
+				Size = UDim2.new(1, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Button",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -110, 0.5, -8),
+				Size = UDim2.new(0, 100, 0, 16),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.LightContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("TextLabel", {
+					Name = "Text",
+					BackgroundTransparency = 1,
+					ClipsDescendants = true,
+					Size = UDim2.new(1, 0, 1, 0),
+					ZIndex = 3,
+					Font = Enum.Font.GothamSemibold,
+					Text = default and default.Name or "None",
+					TextColor3 = themes.TextColor,
+					TextSize = 11
+				})
+			})
+		})
+		
+		table.insert(self.modules, keybind)
+		--self:Resize()
+		
+		local text = keybind.Button.Text
+		local button = keybind.Button
+		
+		local animate = function()
+			if button.ImageTransparency == 0 then
+				utility:Pop(button, 10)
+			end
+		end
+		
+		self.binds[keybind] = {callback = function()
+			animate()
+			
+			if callback then
+				callback(function(...)
+					self:updateKeybind(keybind, ...)
+				end)
+			end
+		end}
+		
+		if default and callback then
+			self:updateKeybind(keybind, nil, default)
+		end
+		
+		keybind.MouseButton1Click:Connect(function()
+			
+			animate()
+			
+			if self.binds[keybind].connection then -- unbind
+				return self:updateKeybind(keybind)
+			end
+			
+			if text.Text == "None" then -- new bind
+				text.Text = "..."
+				
+				local key = utility:KeyPressed()
+				
+				self:updateKeybind(keybind, nil, key.KeyCode)
+				animate()
+				
+				if changedCallback then
+					changedCallback(key, function(...)
+						self:updateKeybind(keybind, ...)
+					end)
+				end
+			end
+		end)
+		
+		return keybind
+	end
+	
+	function section:addColorPicker(title, default, callback)
+		local colorpicker = utility:Create("ImageButton", {
+			Name = "ColorPicker",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Size = UDim2.new(1, 0, 0, 30),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		},{
+			utility:Create("TextLabel", {
+				Name = "Title",
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0.5, 1),
+				Size = UDim2.new(0.5, 0, 1, 0),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageButton", {
+				Name = "Button",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Position = UDim2.new(1, -50, 0.5, -7),
+				Size = UDim2.new(0, 40, 0, 14),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = Color3.fromRGB(255, 255, 255),
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			})
+		})
+		
+		local tab = utility:Create("ImageLabel", {
+			Name = "ColorPicker",
+			Parent = self.page.library.container,
+			BackgroundTransparency = 1,
+			Position = UDim2.new(0.75, 0, 0.400000006, 0),
+			Selectable = true,
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Size = UDim2.new(0, 162, 0, 169),
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.Background,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298),
+			Visible = false,
+		}, {
+			utility:Create("ImageLabel", {
+				Name = "Glow",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, -15, 0, -15),
+				Size = UDim2.new(1, 30, 1, 30),
+				ZIndex = 0,
+				Image = "rbxassetid://5028857084",
+				ImageColor3 = themes.Glow,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(22, 22, 278, 278)
+			}),
+			utility:Create("TextLabel", {
+				Name = "Title",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0, 8),
+				Size = UDim2.new(1, -40, 0, 16),
+				ZIndex = 2,
+				Font = Enum.Font.GothamSemibold,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("ImageButton", {
+				Name = "Close",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -26, 0, 8),
+				Size = UDim2.new(0, 16, 0, 16),
+				ZIndex = 2,
+				Image = "rbxassetid://5012538583",
+				ImageColor3 = themes.TextColor
+			}), 
+			utility:Create("Frame", {
+				Name = "Container",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 8, 0, 32),
+				Size = UDim2.new(1, -18, 1, -40)
+			}, {
+				utility:Create("UIListLayout", {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					Padding = UDim.new(0, 6)
+				}),
+				utility:Create("ImageButton", {
+					Name = "Canvas",
+					BackgroundTransparency = 1,
+					BorderColor3 = themes.LightContrast,
+					Size = UDim2.new(1, 0, 0, 60),
+					AutoButtonColor = false,
+					Image = "rbxassetid://5108535320",
+					ImageColor3 = Color3.fromRGB(255, 0, 0),
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				}, {
+					utility:Create("ImageLabel", {
+						Name = "White_Overlay",
+						BackgroundTransparency = 1,
+						Size = UDim2.new(1, 0, 0, 60),
+						Image = "rbxassetid://5107152351",
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}),
+					utility:Create("ImageLabel", {
+						Name = "Black_Overlay",
+						BackgroundTransparency = 1,
+						Size = UDim2.new(1, 0, 0, 60),
+						Image = "rbxassetid://5107152095",
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}),
+					utility:Create("ImageLabel", {
+						Name = "Cursor",
+						BackgroundColor3 = themes.TextColor,
+						AnchorPoint = Vector2.new(0.5, 0.5),
+						BackgroundTransparency = 1.000,
+						Size = UDim2.new(0, 10, 0, 10),
+						Position = UDim2.new(0, 0, 0, 0),
+						Image = "rbxassetid://5100115962",
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					})
+				}),
+				utility:Create("ImageButton", {
+					Name = "Color",
+					BackgroundTransparency = 1,
+					BorderSizePixel = 0,
+					Position = UDim2.new(0, 0, 0, 4),
+					Selectable = false,
+					Size = UDim2.new(1, 0, 0, 16),
+					ZIndex = 2,
+					AutoButtonColor = false,
+					Image = "rbxassetid://5028857472",
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				}, {
+					utility:Create("Frame", {
+						Name = "Select",
+						BackgroundColor3 = themes.TextColor,
+						BorderSizePixel = 1,
+						Position = UDim2.new(1, 0, 0, 0),
+						Size = UDim2.new(0, 2, 1, 0),
+						ZIndex = 2
+					}),
+					utility:Create("UIGradient", { -- rainbow canvas
+						Color = ColorSequence.new({
+							ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 0)), 
+							ColorSequenceKeypoint.new(0.17, Color3.fromRGB(255, 255, 0)), 
+							ColorSequenceKeypoint.new(0.33, Color3.fromRGB(0, 255, 0)), 
+							ColorSequenceKeypoint.new(0.50, Color3.fromRGB(0, 255, 255)), 
+							ColorSequenceKeypoint.new(0.66, Color3.fromRGB(0, 0, 255)), 
+							ColorSequenceKeypoint.new(0.82, Color3.fromRGB(255, 0, 255)), 
+							ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 0))
+						})
+					})
+				}),
+				utility:Create("Frame", {
+					Name = "Inputs",
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, 10, 0, 158),
+					Size = UDim2.new(1, 0, 0, 16)
+				}, {
+					utility:Create("UIListLayout", {
+						FillDirection = Enum.FillDirection.Horizontal,
+						SortOrder = Enum.SortOrder.LayoutOrder,
+						Padding = UDim.new(0, 6)
+					}),
+					utility:Create("ImageLabel", {
+						Name = "R",
+						BackgroundTransparency = 1,
+						BorderSizePixel = 0,
+						Size = UDim2.new(0.305, 0, 1, 0),
+						ZIndex = 2,
+						Image = "rbxassetid://5028857472",
+						ImageColor3 = themes.DarkContrast,
+						ScaleType = Enum.ScaleType.Slice,
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}, {
+						utility:Create("TextLabel", {
+							Name = "Text",
+							BackgroundTransparency = 1,
+							Size = UDim2.new(0.400000006, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							Text = "R:",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						}),
+						utility:Create("TextBox", {
+							Name = "Textbox",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0.300000012, 0, 0, 0),
+							Size = UDim2.new(0.600000024, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							PlaceholderColor3 = themes.DarkContrast,
+							Text = "255",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						})
+					}),
+					utility:Create("ImageLabel", {
+						Name = "G",
+						BackgroundTransparency = 1,
+						BorderSizePixel = 0,
+						Size = UDim2.new(0.305, 0, 1, 0),
+						ZIndex = 2,
+						Image = "rbxassetid://5028857472",
+						ImageColor3 = themes.DarkContrast,
+						ScaleType = Enum.ScaleType.Slice,
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}, {
+						utility:Create("TextLabel", {
+							Name = "Text",
+							BackgroundTransparency = 1,
+							ZIndex = 2,
+							Size = UDim2.new(0.400000006, 0, 1, 0),
+							Font = Enum.Font.Gotham,
+							Text = "G:",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						}),
+						utility:Create("TextBox", {
+							Name = "Textbox",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0.300000012, 0, 0, 0),
+							Size = UDim2.new(0.600000024, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							Text = "255",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						})
+					}),
+					utility:Create("ImageLabel", {
+						Name = "B",
+						BackgroundTransparency = 1,
+						BorderSizePixel = 0,
+						Size = UDim2.new(0.305, 0, 1, 0),
+						ZIndex = 2,
+						Image = "rbxassetid://5028857472",
+						ImageColor3 = themes.DarkContrast,
+						ScaleType = Enum.ScaleType.Slice,
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}, {
+						utility:Create("TextLabel", {
+							Name = "Text",
+							BackgroundTransparency = 1,
+							Size = UDim2.new(0.400000006, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							Text = "B:",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						}),
+						utility:Create("TextBox", {
+							Name = "Textbox",
+							BackgroundTransparency = 1,
+							Position = UDim2.new(0.300000012, 0, 0, 0),
+							Size = UDim2.new(0.600000024, 0, 1, 0),
+							ZIndex = 2,
+							Font = Enum.Font.Gotham,
+							Text = "255",
+							TextColor3 = themes.TextColor,
+							TextSize = 10.000
+						})
+					}),
+				}),
+				utility:Create("ImageButton", {
+					Name = "Button",
+					BackgroundTransparency = 1,
+					BorderSizePixel = 0,
+					Size = UDim2.new(1, 0, 0, 20),
+					ZIndex = 2,
+					Image = "rbxassetid://5028857472",
+					ImageColor3 = themes.DarkContrast,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				}, {
+					utility:Create("TextLabel", {
+						Name = "Text",
+						BackgroundTransparency = 1,
+						Size = UDim2.new(1, 0, 1, 0),
+						ZIndex = 3,
+						Font = Enum.Font.Gotham,
+						Text = "Submit",
+						TextColor3 = themes.TextColor,
+						TextSize = 11.000
+					})
+				})
+			})
+		})
+		
+		utility:DraggingEnabled(tab)
+		table.insert(self.modules, colorpicker)
+		--self:Resize()
+		
+		local allowed = {
+			[""] = true
+		}
+		
+		local canvas = tab.Container.Canvas
+		local color = tab.Container.Color
+		
+		local canvasSize, canvasPosition = canvas.AbsoluteSize, canvas.AbsolutePosition
+		local colorSize, colorPosition = color.AbsoluteSize, color.AbsolutePosition
+		
+		local draggingColor, draggingCanvas
+		
+		local color3 = default or Color3.fromRGB(255, 255, 255)
+		local hue, sat, brightness = 0, 0, 1
+		local rgb = {
+			r = 255,
+			g = 255,
+			b = 255
+		}
+		
+		self.colorpickers[colorpicker] = {
+			tab = tab,
+			callback = function(prop, value)
+				rgb[prop] = value
+				hue, sat, brightness = Color3.toHSV(Color3.fromRGB(rgb.r, rgb.g, rgb.b))
+			end
+		}
+		
+		local callback = function(value)
+			if callback then
+				callback(value, function(...)
+					self:updateColorPicker(colorpicker, ...)
+				end)
+			end
+		end
+		
+		utility:DraggingEnded(function()
+			draggingColor, draggingCanvas = false, false
+		end)
+		
+		if default then
+			self:updateColorPicker(colorpicker, nil, default)
+			
+			hue, sat, brightness = Color3.toHSV(default)
+			default = Color3.fromHSV(hue, sat, brightness)
+			
+			for i, prop in pairs({"r", "g", "b"}) do
+				rgb[prop] = default[prop:upper()] * 255
+			end
+		end
+		
+		for i, container in pairs(tab.Container.Inputs:GetChildren()) do -- i know what you are about to say, so shut up
+			if container:IsA("ImageLabel") then
+				local textbox = container.Textbox
+				local focused
+				
+				textbox.Focused:Connect(function()
+					focused = true
+				end)
+				
+				textbox.FocusLost:Connect(function()
+					focused = false
+					
+					if not tonumber(textbox.Text) then
+						textbox.Text = math.floor(rgb[container.Name:lower()])
+					end
+				end)
+				
+				textbox:GetPropertyChangedSignal("Text"):Connect(function()
+					local text = textbox.Text
+					
+					if not allowed[text] and not tonumber(text) then
+						textbox.Text = text:sub(1, #text - 1)
+					elseif focused and not allowed[text] then
+						rgb[container.Name:lower()] = math.clamp(tonumber(textbox.Text), 0, 255)
+						
+						local color3 = Color3.fromRGB(rgb.r, rgb.g, rgb.b)
+						hue, sat, brightness = Color3.toHSV(color3)
+						
+						self:updateColorPicker(colorpicker, nil, color3)
+						callback(color3)
+					end
+				end)
+			end
+		end
+		
+		canvas.MouseButton1Down:Connect(function()
+			draggingCanvas = true
+			
+			while draggingCanvas do
+				
+				local x, y = mouse.X, mouse.Y
+				
+				sat = math.clamp((x - canvasPosition.X) / canvasSize.X, 0, 1)
+				brightness = 1 - math.clamp((y - canvasPosition.Y) / canvasSize.Y, 0, 1)
+				
+				color3 = Color3.fromHSV(hue, sat, brightness)
+				
+				for i, prop in pairs({"r", "g", "b"}) do
+					rgb[prop] = color3[prop:upper()] * 255
+				end
+				
+				self:updateColorPicker(colorpicker, nil, {hue, sat, brightness}) -- roblox is literally retarded
+				utility:Tween(canvas.Cursor, {Position = UDim2.new(sat, 0, 1 - brightness, 0)}, 0.1) -- overwrite
+				
+				callback(color3)
+				utility:Wait()
+			end
+		end)
+		
+		color.MouseButton1Down:Connect(function()
+			draggingColor = true
+			
+			while draggingColor do
+			
+				hue = 1 - math.clamp(1 - ((mouse.X - colorPosition.X) / colorSize.X), 0, 1)
+				color3 = Color3.fromHSV(hue, sat, brightness)
+				
+				for i, prop in pairs({"r", "g", "b"}) do
+					rgb[prop] = color3[prop:upper()] * 255
+				end
+				
+				local x = hue -- hue is updated
+				self:updateColorPicker(colorpicker, nil, {hue, sat, brightness}) -- roblox is literally retarded
+				utility:Tween(tab.Container.Color.Select, {Position = UDim2.new(x, 0, 0, 0)}, 0.1) -- overwrite
+				
+				callback(color3)
+				utility:Wait()
+			end
+		end)
+		
+		-- click events
+		local button = colorpicker.Button
+		local toggle, debounce, animate
+		
+		lastColor = Color3.fromHSV(hue, sat, brightness)
+		animate = function(visible, overwrite)
+			
+			if overwrite then
+			
+				if not toggle then
+					return
+				end
+				
+				if debounce then
+					while debounce do
+						utility:Wait()
+					end
+				end
+			elseif not overwrite then
+				if debounce then 
+					return 
+				end
+				
+				if button.ImageTransparency == 0 then
+					utility:Pop(button, 10)
+				end
+			end
+			
+			toggle = visible
+			debounce = true
+			
+			if visible then
+			
+				if self.page.library.activePicker and self.page.library.activePicker ~= animate then
+					self.page.library.activePicker(nil, true)
+				end
+				
+				self.page.library.activePicker = animate
+				lastColor = Color3.fromHSV(hue, sat, brightness)
+				
+				local x1, x2 = button.AbsoluteSize.X / 2, 162--tab.AbsoluteSize.X
+				local px, py = button.AbsolutePosition.X, button.AbsolutePosition.Y
+				
+				tab.ClipsDescendants = true
+				tab.Visible = true
+				tab.Size = UDim2.new(0, 0, 0, 0)
+				
+				tab.Position = UDim2.new(0, x1 + x2 + px, 0, py)
+				utility:Tween(tab, {Size = UDim2.new(0, 162, 0, 169)}, 0.2)
+				
+				-- update size and position
+				wait(0.2)
+				tab.ClipsDescendants = false
+				
+				canvasSize, canvasPosition = canvas.AbsoluteSize, canvas.AbsolutePosition
+				colorSize, colorPosition = color.AbsoluteSize, color.AbsolutePosition
+			else
+				utility:Tween(tab, {Size = UDim2.new(0, 0, 0, 0)}, 0.2)
+				tab.ClipsDescendants = true
+				
+				wait(0.2)
+				tab.Visible = false
+			end
+			
+			debounce = false
+		end
+		
+		local toggleTab = function()
+			animate(not toggle)
+		end
+		
+		button.MouseButton1Click:Connect(toggleTab)
+		colorpicker.MouseButton1Click:Connect(toggleTab)
+		
+		tab.Container.Button.MouseButton1Click:Connect(function()
+			animate()
+		end)
+		
+		tab.Close.MouseButton1Click:Connect(function()
+			self:updateColorPicker(colorpicker, nil, lastColor)
+			animate()
+		end)
+		
+		return colorpicker
+	end
+	
+	function section:addSlider(title, default, min, max, callback)
+		local slider = utility:Create("ImageButton", {
+			Name = "Slider",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			BorderSizePixel = 0,
+			Position = UDim2.new(0.292817682, 0, 0.299145311, 0),
+			Size = UDim2.new(1, 0, 0, 50),
+			ZIndex = 2,
+			Image = "rbxassetid://5028857472",
+			ImageColor3 = themes.DarkContrast,
+			ScaleType = Enum.ScaleType.Slice,
+			SliceCenter = Rect.new(2, 2, 298, 298)
+		}, {
+			utility:Create("TextLabel", {
+				Name = "Title",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0, 6),
+				Size = UDim2.new(0.5, 0, 0, 16),
+				ZIndex = 3,
+				Font = Enum.Font.Gotham,
+				Text = title,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextTransparency = 0.10000000149012,
+				TextXAlignment = Enum.TextXAlignment.Left
+			}),
+			utility:Create("TextBox", {
+				Name = "TextBox",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Position = UDim2.new(1, -30, 0, 6),
+				Size = UDim2.new(0, 20, 0, 16),
+				ZIndex = 3,
+				Font = Enum.Font.GothamSemibold,
+				Text = default or min,
+				TextColor3 = themes.TextColor,
+				TextSize = 12,
+				TextXAlignment = Enum.TextXAlignment.Right
+			}),
+			utility:Create("TextLabel", {
+				Name = "Slider",
+				BackgroundTransparency = 1,
+				Position = UDim2.new(0, 10, 0, 28),
+				Size = UDim2.new(1, -20, 0, 16),
+				ZIndex = 3,
+				Text = "",
+			}, {
+				utility:Create("ImageLabel", {
+					Name = "Bar",
+					AnchorPoint = Vector2.new(0, 0.5),
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, 0, 0.5, 0),
+					Size = UDim2.new(1, 0, 0, 4),
+					ZIndex = 3,
+					Image = "rbxassetid://5028857472",
+					ImageColor3 = themes.LightContrast,
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				}, {
+					utility:Create("ImageLabel", {
+						Name = "Fill",
+						BackgroundTransparency = 1,
+						Size = UDim2.new(0.8, 0, 1, 0),
+						ZIndex = 3,
+						Image = "rbxassetid://5028857472",
+						ImageColor3 = themes.TextColor,
+						ScaleType = Enum.ScaleType.Slice,
+						SliceCenter = Rect.new(2, 2, 298, 298)
+					}, {
+						utility:Create("ImageLabel", {
+							Name = "Circle",
+							AnchorPoint = Vector2.new(0.5, 0.5),
+							BackgroundTransparency = 1,
+							ImageTransparency = 1.000,
+							ImageColor3 = themes.TextColor,
+							Position = UDim2.new(1, 0, 0.5, 0),
+							Size = UDim2.new(0, 10, 0, 10),
+							ZIndex = 3,
+							Image = "rbxassetid://4608020054"
+						})
+					})
+				})
+			})
+		})
+		
+		table.insert(self.modules, slider)
+		--self:Resize()
+		
+		local allowed = {
+			[""] = true,
+			["-"] = true
+		}
+		
+		local textbox = slider.TextBox
+		local circle = slider.Slider.Bar.Fill.Circle
+		
+		local value = default or min
+		local dragging, last
+		
+		local callback = function(value)
+			if callback then
+				callback(value, function(...)
+					self:updateSlider(slider, ...)
+				end)
+			end
+		end
+		
+		self:updateSlider(slider, nil, value, min, max)
+		
+		utility:DraggingEnded(function()
+			dragging = false
+		end)
+
+		slider.MouseButton1Down:Connect(function(input)
+			dragging = true
+			
+			while dragging do
+				utility:Tween(circle, {ImageTransparency = 0}, 0.1)
+				
+				value = self:updateSlider(slider, nil, nil, min, max, value)
+				callback(value)
+				
+				utility:Wait()
+			end
+			
+			wait(0.5)
+			utility:Tween(circle, {ImageTransparency = 1}, 0.2)
+		end)
+		
+		textbox.FocusLost:Connect(function()
+			if not tonumber(textbox.Text) then
+				value = self:updateSlider(slider, nil, default or min, min, max)
+				callback(value)
+			end
+		end)
+		
+		textbox:GetPropertyChangedSignal("Text"):Connect(function()
+			local text = textbox.Text
+			
+			if not allowed[text] and not tonumber(text) then
+				textbox.Text = text:sub(1, #text - 1)
+			elseif not allowed[text] then	
+				value = self:updateSlider(slider, nil, tonumber(text) or value, min, max)
+				callback(value)
+			end
+		end)
+		
+		return slider
+	end
+	
+	function section:addDropdown(title, list, callback)
+		local dropdown = utility:Create("Frame", {
+			Name = "Dropdown",
+			Parent = self.container,
+			BackgroundTransparency = 1,
+			Size = UDim2.new(1, 0, 0, 30),
+			ClipsDescendants = true
+		}, {
+			utility:Create("UIListLayout", {
+				SortOrder = Enum.SortOrder.LayoutOrder,
+				Padding = UDim.new(0, 4)
+			}),
+			utility:Create("ImageLabel", {
+				Name = "Search",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Size = UDim2.new(1, 0, 0, 30),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.DarkContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("TextBox", {
+					Name = "TextBox",
+					AnchorPoint = Vector2.new(0, 0.5),
+					BackgroundTransparency = 1,
+					TextTruncate = Enum.TextTruncate.AtEnd,
+					Position = UDim2.new(0, 10, 0.5, 1),
+					Size = UDim2.new(1, -42, 1, 0),
+					ZIndex = 3,
+					Font = Enum.Font.Gotham,
+					Text = title,
+					TextColor3 = themes.TextColor,
+					TextSize = 12,
+					TextTransparency = 0.10000000149012,
+					TextXAlignment = Enum.TextXAlignment.Left
+				}),
+				utility:Create("ImageButton", {
+					Name = "Button",
+					BackgroundTransparency = 1,
+					BorderSizePixel = 0,
+					Position = UDim2.new(1, -28, 0.5, -9),
+					Size = UDim2.new(0, 18, 0, 18),
+					ZIndex = 3,
+					Image = "rbxassetid://5012539403",
+					ImageColor3 = themes.TextColor,
+					SliceCenter = Rect.new(2, 2, 298, 298)
+				})
+			}),
+			utility:Create("ImageLabel", {
+				Name = "List",
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Size = UDim2.new(1, 0, 1, -34),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.Background,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("ScrollingFrame", {
+					Name = "Frame",
+					Active = true,
+					BackgroundTransparency = 1,
+					BorderSizePixel = 0,
+					Position = UDim2.new(0, 4, 0, 4),
+					Size = UDim2.new(1, -8, 1, -8),
+					CanvasPosition = Vector2.new(0, 28),
+					CanvasSize = UDim2.new(0, 0, 0, 120),
+					ZIndex = 2,
+					ScrollBarThickness = 3,
+					ScrollBarImageColor3 = themes.DarkContrast
+				}, {
+					utility:Create("UIListLayout", {
+						SortOrder = Enum.SortOrder.LayoutOrder,
+						Padding = UDim.new(0, 4)
+					})
+				})
+			})
+		})
+		
+		table.insert(self.modules, dropdown)
+		--self:Resize()
+		
+		local search = dropdown.Search
+		local focused
+		
+		list = list or {}
+		
+		search.Button.MouseButton1Click:Connect(function()
+			if search.Button.Rotation == 0 then
+				self:updateDropdown(dropdown, nil, list, callback)
+			else
+				self:updateDropdown(dropdown, nil, nil, callback)
+			end
+		end)
+		
+		search.TextBox.Focused:Connect(function()
+			if search.Button.Rotation == 0 then
+				self:updateDropdown(dropdown, nil, list, callback)
+			end
+			
+			focused = true
+		end)
+		
+		search.TextBox.FocusLost:Connect(function()
+			focused = false
+		end)
+		
+		search.TextBox:GetPropertyChangedSignal("Text"):Connect(function()
+			if focused then
+				local list = utility:Sort(search.TextBox.Text, list)
+				list = #list ~= 0 and list 
+				
+				self:updateDropdown(dropdown, nil, list, callback)
+			end
+		end)
+		
+		dropdown:GetPropertyChangedSignal("Size"):Connect(function()
+			self:Resize()
+		end)
+		
+		return dropdown
+	end
+	
+	-- class functions
+	
+	function library:SelectPage(page, toggle)
+		
+		if toggle and self.focusedPage == page then -- already selected
+			return
+		end
+		
+		local button = page.button
+		
+		if toggle then
+			-- page button
+			button.Title.TextTransparency = 0
+			button.Title.Font = Enum.Font.GothamSemibold
+			
+			if button:FindFirstChild("Icon") then
+				button.Icon.ImageTransparency = 0
+			end
+			
+			-- update selected page
+			local focusedPage = self.focusedPage
+			self.focusedPage = page
+			
+			if focusedPage then
+				self:SelectPage(focusedPage)
+			end
+			
+			-- sections
+			local existingSections = focusedPage and #focusedPage.sections or 0
+			local sectionsRequired = #page.sections - existingSections
+			
+			page:Resize()
+			
+			for i, section in pairs(page.sections) do
+				section.container.Parent.ImageTransparency = 0
+			end
+			
+			if sectionsRequired < 0 then -- "hides" some sections
+				for i = existingSections, #page.sections + 1, -1 do
+					local section = focusedPage.sections[i].container.Parent
+					
+					utility:Tween(section, {ImageTransparency = 1}, 0.1)
+				end
+			end
+			
+			wait(0.1)
+			page.container.Visible = true
+			
+			if focusedPage then
+				focusedPage.container.Visible = false
+			end
+			
+			if sectionsRequired > 0 then -- "creates" more section
+				for i = existingSections + 1, #page.sections do
+					local section = page.sections[i].container.Parent
+					
+					section.ImageTransparency = 1
+					utility:Tween(section, {ImageTransparency = 0}, 0.05)
+				end
+			end
+			
+			wait(0.05)
+			
+			for i, section in pairs(page.sections) do
+			
+				utility:Tween(section.container.Title, {TextTransparency = 0}, 0.1)
+				section:Resize(true)
+				
+				wait(0.05)
+			end
+			
+			wait(0.05)
+			page:Resize(true)
+		else
+			-- page button
+			button.Title.Font = Enum.Font.Gotham
+			button.Title.TextTransparency = 0.65
+			
+			if button:FindFirstChild("Icon") then
+				button.Icon.ImageTransparency = 0.65
+			end
+			
+			-- sections
+			for i, section in pairs(page.sections) do	
+				utility:Tween(section.container.Parent, {Size = UDim2.new(1, -10, 0, 28)}, 0.1)
+				utility:Tween(section.container.Title, {TextTransparency = 1}, 0.1)
+			end
+			
+			wait(0.1)
+			
+			page.lastPosition = page.container.CanvasPosition.Y
+			page:Resize()
+		end
+	end
+	
+	function page:Resize(scroll)
+		local padding = 10
+		local size = 0
+		
+		for i, section in pairs(self.sections) do
+			size = size + section.container.Parent.AbsoluteSize.Y + padding
+		end
+		
+		self.container.CanvasSize = UDim2.new(0, 0, 0, size)
+		self.container.ScrollBarImageTransparency = size > self.container.AbsoluteSize.Y
+		
+		if scroll then
+			utility:Tween(self.container, {CanvasPosition = Vector2.new(0, self.lastPosition or 0)}, 0.2)
+		end
+	end
+	
+	function section:Resize(smooth)
+	
+		if self.page.library.focusedPage ~= self.page then
+			return
+		end
+		
+		local padding = 4
+		local size = (4 * padding) + self.container.Title.AbsoluteSize.Y -- offset
+		
+		for i, module in pairs(self.modules) do
+			size = size + module.AbsoluteSize.Y + padding
+		end
+		
+		if smooth then
+			utility:Tween(self.container.Parent, {Size = UDim2.new(1, -10, 0, size)}, 0.05)
+		else
+			self.container.Parent.Size = UDim2.new(1, -10, 0, size)
+			self.page:Resize()
+		end
+	end
+	
+	function section:getModule(info)
+	
+		if table.find(self.modules, info) then
+			return info
+		end
+		
+		for i, module in pairs(self.modules) do
+			if (module:FindFirstChild("Title") or module:FindFirstChild("TextBox", true)).Text == info then
+				return module
+			end
+		end
+		
+		error("No module found under "..tostring(info))
+	end
+	
+	-- updates
+	
+	function section:updateButton(button, title)
+		button = self:getModule(button)
+		
+		button.Title.Text = title
+	end
+	
+	function section:updateToggle(toggle, title, value)
+		toggle = self:getModule(toggle)
+		
+		local position = {
+			In = UDim2.new(0, 2, 0.5, -6),
+			Out = UDim2.new(0, 20, 0.5, -6)
+		}
+		
+		local frame = toggle.Button.Frame
+		value = value and "Out" or "In"
+		
+		if title then
+			toggle.Title.Text = title
+		end
+		
+		utility:Tween(frame, {
+			Size = UDim2.new(1, -22, 1, -9),
+			Position = position[value] + UDim2.new(0, 0, 0, 2.5)
+		}, 0.2)
+		
+		wait(0.1)
+		utility:Tween(frame, {
+			Size = UDim2.new(1, -22, 1, -4),
+			Position = position[value]
+		}, 0.1)
+	end
+	
+	function section:updateTextbox(textbox, title, value)
+		textbox = self:getModule(textbox)
+		
+		if title then
+			textbox.Title.Text = title
+		end
+		
+		if value then
+			textbox.Button.Textbox.Text = value
+		end
+		
+	end
+	
+	function section:updateKeybind(keybind, title, key)
+		keybind = self:getModule(keybind)
+		
+		local text = keybind.Button.Text
+		local bind = self.binds[keybind]
+		
+		if title then
+			keybind.Title.Text = title
+		end
+		
+		if bind.connection then
+			bind.connection = bind.connection:UnBind()
+		end
+			
+		if key then
+			self.binds[keybind].connection = utility:BindToKey(key, bind.callback)
+			text.Text = key.Name
+		else
+			text.Text = "None"
+		end
+	end
+	
+	function section:updateColorPicker(colorpicker, title, color)
+		colorpicker = self:getModule(colorpicker)
+		
+		local picker = self.colorpickers[colorpicker]
+		local tab = picker.tab
+		local callback = picker.callback
+		
+		if title then
+			colorpicker.Title.Text = title
+			tab.Title.Text = title
+		end
+		
+		local color3
+		local hue, sat, brightness
+		
+		if type(color) == "table" then -- roblox is literally retarded x2
+			hue, sat, brightness = unpack(color)
+			color3 = Color3.fromHSV(hue, sat, brightness)
+		else
+			color3 = color
+			hue, sat, brightness = Color3.toHSV(color3)
+		end
+		
+		utility:Tween(colorpicker.Button, {ImageColor3 = color3}, 0.5)
+		utility:Tween(tab.Container.Color.Select, {Position = UDim2.new(hue, 0, 0, 0)}, 0.1)
+		
+		utility:Tween(tab.Container.Canvas, {ImageColor3 = Color3.fromHSV(hue, 1, 1)}, 0.5)
+		utility:Tween(tab.Container.Canvas.Cursor, {Position = UDim2.new(sat, 0, 1 - brightness)}, 0.5)
+		
+		for i, container in pairs(tab.Container.Inputs:GetChildren()) do
+			if container:IsA("ImageLabel") then
+				local value = math.clamp(color3[container.Name], 0, 1) * 255
+				
+				container.Textbox.Text = math.floor(value)
+				--callback(container.Name:lower(), value)
+			end
+		end
+	end
+	
+	function section:updateSlider(slider, title, value, min, max, lvalue)
+		slider = self:getModule(slider)
+		
+		if title then
+			slider.Title.Text = title
+		end
+		
+		local bar = slider.Slider.Bar
+		local percent = (mouse.X - bar.AbsolutePosition.X) / bar.AbsoluteSize.X
+		
+		if value then -- support negative ranges
+			percent = (value - min) / (max - min)
+		end
+		
+		percent = math.clamp(percent, 0, 1)
+		value = value or math.floor(min + (max - min) * percent)
+		
+		slider.TextBox.Text = value
+		utility:Tween(bar.Fill, {Size = UDim2.new(percent, 0, 1, 0)}, 0.1)
+		
+		if value ~= lvalue and slider.ImageTransparency == 0 then
+			utility:Pop(slider, 10)
+		end
+		
+		return value
+	end
+	
+	function section:updateDropdown(dropdown, title, list, callback)
+		dropdown = self:getModule(dropdown)
+		
+		if title then
+			dropdown.Search.TextBox.Text = title
+		end
+		
+		local entries = 0
+		
+		utility:Pop(dropdown.Search, 10)
+		
+		for i, button in pairs(dropdown.List.Frame:GetChildren()) do
+			if button:IsA("ImageButton") then
+				button:Destroy()
+			end
+		end
+			
+		for i, value in pairs(list or {}) do
+			local button = utility:Create("ImageButton", {
+				Parent = dropdown.List.Frame,
+				BackgroundTransparency = 1,
+				BorderSizePixel = 0,
+				Size = UDim2.new(1, 0, 0, 30),
+				ZIndex = 2,
+				Image = "rbxassetid://5028857472",
+				ImageColor3 = themes.DarkContrast,
+				ScaleType = Enum.ScaleType.Slice,
+				SliceCenter = Rect.new(2, 2, 298, 298)
+			}, {
+				utility:Create("TextLabel", {
+					BackgroundTransparency = 1,
+					Position = UDim2.new(0, 10, 0, 0),
+					Size = UDim2.new(1, -10, 1, 0),
+					ZIndex = 3,
+					Font = Enum.Font.Gotham,
+					Text = value,
+					TextColor3 = themes.TextColor,
+					TextSize = 12,
+					TextXAlignment = "Left",
+					TextTransparency = 0.10000000149012
+				})
+			})
+			
+			button.MouseButton1Click:Connect(function()
+				if callback then
+					callback(value, function(...)
+						self:updateDropdown(dropdown, ...)
+					end)	
+				end
+
+				self:updateDropdown(dropdown, value, nil, callback)
+			end)
+			
+			entries = entries + 1
+		end
+		
+		local frame = dropdown.List.Frame
+		
+		utility:Tween(dropdown, {Size = UDim2.new(1, 0, 0, (entries == 0 and 30) or math.clamp(entries, 0, 3) * 34 + 38)}, 0.3)
+		utility:Tween(dropdown.Search.Button, {Rotation = list and 180 or 0}, 0.3)
+		
+		if entries > 3 then
+		
+			for i, button in pairs(dropdown.List.Frame:GetChildren()) do
+				if button:IsA("ImageButton") then
+					button.Size = UDim2.new(1, -6, 0, 30)
+				end
+			end
+			
+			frame.CanvasSize = UDim2.new(0, 0, 0, (entries * 34) - 4)
+			frame.ScrollBarImageTransparency = 0
+		else
+			frame.CanvasSize = UDim2.new(0, 0, 0, 0)
+			frame.ScrollBarImageTransparency = 1
+		end
+	end
+end
+
+print("dino was here :\)")
+return library
