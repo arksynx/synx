@@ -291,6 +291,43 @@ do
 				})
 			})
 		})
+
+		local toggleButton = Instance.new("TextButton")
+toggleButton.Name = "ToggleButton"
+toggleButton.Text = "Show Library"
+toggleButton.BackgroundTransparency = 0.3
+toggleButton.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+toggleButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+toggleButton.Font = Enum.Font.GothamBold
+toggleButton.TextSize = 14
+toggleButton.AnchorPoint = Vector2.new(0.5, 0)
+toggleButton.Size = UDim2.new(0, 150, 0, 30)
+toggleButton.Position = UDim2.new(0.5, 0, 0, 5)
+toggleButton.AutoButtonColor = true
+toggleButton.Parent = container
+
+local UICorner = Instance.new("UICorner")
+UICorner.CornerRadius = UDim.new(0, 8)
+UICorner.Parent = toggleButton
+
+local UIStroke = Instance.new("UIStroke")
+UIStroke.Thickness = 1
+UIStroke.Color = Color3.fromRGB(200, 200, 200)
+UIStroke.Parent = toggleButton
+
+local uiVisible = true
+local function toggleUI()
+    uiVisible = not uiVisible
+    container.Main.Visible = uiVisible
+
+    if uiVisible then
+        toggleButton.Text = "Hide Library"
+    else
+        toggleButton.Text = "Show Library"
+    end
+end
+
+toggleButton.MouseButton1Click:Connect(toggleUI)
 		
 		utility:InitializeKeybind()
 		utility:DraggingEnabled(container.Main.TopBar, container.Main)
